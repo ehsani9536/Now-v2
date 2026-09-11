@@ -48,8 +48,8 @@ proxies:
   - {name: "سرویس رایگان نوا @irnova 8.39.125.48:8443 [VLESS]", server: 8.39.125.48, port: 8443, type: vless, uuid: cc9a00e9-0af9-4ab4-be1a-92e09a0d9b0b, tls: true, skip-cert-verify: false, servername: rosy-poppy-b1c4.backups9536-038.workers.dev, client-fingerprint: unsafe, network: ws, ws-opts: {path: /1ae0ad22a728, headers: {Host: rosy-poppy-b1c4.backups9536-038.workers.dev}}}
   - {name: "سرویس رایگان نوا @irnova 188.164.248.51:2087 [VLESS]", server: 188.164.248.51, port: 2087, type: vless, uuid: cc9a00e9-0af9-4ab4-be1a-92e09a0d9b0b, tls: true, skip-cert-verify: false, servername: silver-garden-aaa9.pages.dev, client-fingerprint: unsafe, network: ws, ws-opts: {path: /1ae0ad22a728, headers: {Host: silver-garden-aaa9.pages.dev}}}
   - {name: "سرویس رایگان نوا @irnova 172.66.3.211:8443 [VLESS]", server: 172.66.3.211, port: 8443, type: vless, uuid: cc9a00e9-0af9-4ab4-be1a-92e09a0d9b0b, tls: true, skip-cert-verify: false, servername: rosy-poppy-b1c4.backups9536-038.workers.dev, client-fingerprint: unsafe, network: ws, ws-opts: {path: /1ae0ad22a728, headers: {Host: rosy-poppy-b1c4.backups9536-038.workers.dev}}}
-  - {name: "سرویس رایگان نوا @irnova 104.18.1.1:2053 [VLESS]", server: 104.18.1.1, port: 2053, type: vless, uuid: cc9a00e9-0af9-4ab4-be1a-92e09a0d9b0b, tls: true, skip-cert-verify: false, servername: silver-garden-aaa9.pages.dev, client-fingerprint: unsafe, network: ws, ws-opts: {path: /1ae0ad22a728, headers: {Host: silver-garden-aaa9.pages.dev}}}
-  - {name: "سرویس رایگان نوا @irnova 104.18.0.0:443 [VLESS]", server: 104.18.0.0, port: 443, type: vless, uuid: cc9a00e9-0af9-4ab4-be1a-92e09a0d9b0b, tls: true, skip-cert-verify: false, servername: rosy-poppy-b1c4.backups9536-038.workers.dev, client-fingerprint: unsafe, network: ws, ws-opts: {path: /1ae0ad22a728, headers: {Host: rosy-poppy-b1c4.backups9536-038.workers.dev}}}
+  - {name: "سرویس رایگان نوا @irnova 104.18.0.0:443 [VLESS]", server: 104.18.0.0, port: 443, type: vless, uuid: cc9a00e9-0af9-4ab4-be1a-92e09a0d9b0b, tls: true, skip-cert-verify: false, servername: silver-garden-aaa9.pages.dev, client-fingerprint: unsafe, network: ws, ws-opts: {path: /1ae0ad22a728, headers: {Host: silver-garden-aaa9.pages.dev}}}
+  - {name: "سرویس رایگان نوا @irnova 104.18.1.1:2053 [VLESS]", server: 104.18.1.1, port: 2053, type: vless, uuid: cc9a00e9-0af9-4ab4-be1a-92e09a0d9b0b, tls: true, skip-cert-verify: false, servername: rosy-poppy-b1c4.backups9536-038.workers.dev, client-fingerprint: unsafe, network: ws, ws-opts: {path: /1ae0ad22a728, headers: {Host: rosy-poppy-b1c4.backups9536-038.workers.dev}}}
 proxy-groups:
   - name: 🚀 节点选择
     type: select
@@ -77,8 +77,8 @@ proxy-groups:
       - سرویس رایگان نوا @irnova 8.39.125.48:8443 [VLESS]
       - سرویس رایگان نوا @irnova 188.164.248.51:2087 [VLESS]
       - سرویس رایگان نوا @irnova 172.66.3.211:8443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.18.1.1:2053 [VLESS]
       - سرویس رایگان نوا @irnova 104.18.0.0:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.18.1.1:2053 [VLESS]
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
@@ -102,8 +102,8 @@ proxy-groups:
       - سرویس رایگان نوا @irnova 8.39.125.48:8443 [VLESS]
       - سرویس رایگان نوا @irnova 188.164.248.51:2087 [VLESS]
       - سرویس رایگان نوا @irnova 172.66.3.211:8443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.18.1.1:2053 [VLESS]
       - سرویس رایگان نوا @irnova 104.18.0.0:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.18.1.1:2053 [VLESS]
   - name: 🔯 故障转移
     type: fallback
     url: http://www.gstatic.com/generate_204
@@ -126,8 +126,8 @@ proxy-groups:
       - سرویس رایگان نوا @irnova 8.39.125.48:8443 [VLESS]
       - سرویس رایگان نوا @irnova 188.164.248.51:2087 [VLESS]
       - سرویس رایگان نوا @irnova 172.66.3.211:8443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.18.1.1:2053 [VLESS]
       - سرویس رایگان نوا @irnova 104.18.0.0:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.18.1.1:2053 [VLESS]
   - name: 🔮 负载均衡
     type: load-balance
     strategy: consistent-hashing
@@ -151,8 +151,8 @@ proxy-groups:
       - سرویس رایگان نوا @irnova 8.39.125.48:8443 [VLESS]
       - سرویس رایگان نوا @irnova 188.164.248.51:2087 [VLESS]
       - سرویس رایگان نوا @irnova 172.66.3.211:8443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.18.1.1:2053 [VLESS]
       - سرویس رایگان نوا @irnova 104.18.0.0:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.18.1.1:2053 [VLESS]
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -195,8 +195,8 @@ proxy-groups:
       - سرویس رایگان نوا @irnova 8.39.125.48:8443 [VLESS]
       - سرویس رایگان نوا @irnova 188.164.248.51:2087 [VLESS]
       - سرویس رایگان نوا @irnova 172.66.3.211:8443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.18.1.1:2053 [VLESS]
       - سرویس رایگان نوا @irnova 104.18.0.0:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.18.1.1:2053 [VLESS]
   - name: ☁️ CloudFlareCDN
     type: select
     proxies:
@@ -225,8 +225,8 @@ proxy-groups:
       - سرویس رایگان نوا @irnova 8.39.125.48:8443 [VLESS]
       - سرویس رایگان نوا @irnova 188.164.248.51:2087 [VLESS]
       - سرویس رایگان نوا @irnova 172.66.3.211:8443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.18.1.1:2053 [VLESS]
       - سرویس رایگان نوا @irnova 104.18.0.0:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.18.1.1:2053 [VLESS]
 rules:
 # IRANIAN DIRECT RULES
   - DOMAIN-SUFFIX,ir,DIRECT
