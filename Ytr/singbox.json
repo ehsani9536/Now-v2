@@ -90,12 +90,12 @@
         "path": "/1ae0ad22a728",
         "type": "ws",
         "headers": {
-          "Host": "silver-garden-aaa9.pages.dev"
+          "Host": "rosy-poppy-b1c4.backups9536-038.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "silver-garden-aaa9.pages.dev",
+        "server_name": "rosy-poppy-b1c4.backups9536-038.workers.dev",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -105,365 +105,365 @@
     },
     {
       "type": "vless",
-      "tag": "سرویس رایگان نوا @irnova 91.193.59.226:2083 [VLESS]",
-      "server": "91.193.59.226",
-      "server_port": 2083,
-      "uuid": "cc9a00e9-0af9-4ab4-be1a-92e09a0d9b0b",
-      "transport": {
-        "path": "/1ae0ad22a728",
-        "type": "ws",
-        "headers": {
-          "Host": "silver-garden-aaa9.pages.dev"
-        }
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "silver-garden-aaa9.pages.dev",
-        "insecure": false,
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      }
-    },
-    {
-      "type": "vless",
-      "tag": "سرویس رایگان نوا @irnova 104.16.152.136:2096 [VLESS]",
-      "server": "104.16.152.136",
-      "server_port": 2096,
-      "uuid": "cc9a00e9-0af9-4ab4-be1a-92e09a0d9b0b",
-      "transport": {
-        "path": "/1ae0ad22a728",
-        "type": "ws",
-        "headers": {
-          "Host": "silver-garden-aaa9.pages.dev"
-        }
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "silver-garden-aaa9.pages.dev",
-        "insecure": false,
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      }
-    },
-    {
-      "type": "vless",
-      "tag": "سرویس رایگان نوا @irnova 172.66.0.12:443 [VLESS]",
-      "server": "172.66.0.12",
-      "server_port": 443,
-      "uuid": "cc9a00e9-0af9-4ab4-be1a-92e09a0d9b0b",
-      "transport": {
-        "path": "/1ae0ad22a728",
-        "type": "ws",
-        "headers": {
-          "Host": "silver-garden-aaa9.pages.dev"
-        }
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "silver-garden-aaa9.pages.dev",
-        "insecure": false,
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      }
-    },
-    {
-      "type": "vless",
-      "tag": "سرویس رایگان نوا @irnova 104.18.33.64:2053 [VLESS]",
-      "server": "104.18.33.64",
-      "server_port": 2053,
-      "uuid": "cc9a00e9-0af9-4ab4-be1a-92e09a0d9b0b",
-      "transport": {
-        "path": "/1ae0ad22a728",
-        "type": "ws",
-        "headers": {
-          "Host": "silver-garden-aaa9.pages.dev"
-        }
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "silver-garden-aaa9.pages.dev",
-        "insecure": false,
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      }
-    },
-    {
-      "type": "vless",
-      "tag": "سرویس رایگان نوا @irnova 8.39.125.248:2087 [VLESS]",
-      "server": "8.39.125.248",
-      "server_port": 2087,
-      "uuid": "cc9a00e9-0af9-4ab4-be1a-92e09a0d9b0b",
-      "transport": {
-        "path": "/1ae0ad22a728",
-        "type": "ws",
-        "headers": {
-          "Host": "silver-garden-aaa9.pages.dev"
-        }
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "silver-garden-aaa9.pages.dev",
-        "insecure": false,
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      }
-    },
-    {
-      "type": "vless",
-      "tag": "سرویس رایگان نوا @irnova 198.41.209.34:2083 [VLESS]",
-      "server": "198.41.209.34",
-      "server_port": 2083,
-      "uuid": "cc9a00e9-0af9-4ab4-be1a-92e09a0d9b0b",
-      "transport": {
-        "path": "/1ae0ad22a728",
-        "type": "ws",
-        "headers": {
-          "Host": "silver-garden-aaa9.pages.dev"
-        }
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "silver-garden-aaa9.pages.dev",
-        "insecure": false,
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      }
-    },
-    {
-      "type": "vless",
-      "tag": "سرویس رایگان نوا @irnova 104.17.113.64:2087 [VLESS]",
-      "server": "104.17.113.64",
-      "server_port": 2087,
-      "uuid": "cc9a00e9-0af9-4ab4-be1a-92e09a0d9b0b",
-      "transport": {
-        "path": "/1ae0ad22a728",
-        "type": "ws",
-        "headers": {
-          "Host": "silver-garden-aaa9.pages.dev"
-        }
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "silver-garden-aaa9.pages.dev",
-        "insecure": false,
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      }
-    },
-    {
-      "type": "vless",
-      "tag": "سرویس رایگان نوا @irnova 104.17.185.50:2087 [VLESS]",
-      "server": "104.17.185.50",
-      "server_port": 2087,
-      "uuid": "cc9a00e9-0af9-4ab4-be1a-92e09a0d9b0b",
-      "transport": {
-        "path": "/1ae0ad22a728",
-        "type": "ws",
-        "headers": {
-          "Host": "silver-garden-aaa9.pages.dev"
-        }
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "silver-garden-aaa9.pages.dev",
-        "insecure": false,
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      }
-    },
-    {
-      "type": "vless",
-      "tag": "سرویس رایگان نوا @irnova 104.17.59.131:443 [VLESS]",
-      "server": "104.17.59.131",
-      "server_port": 443,
-      "uuid": "cc9a00e9-0af9-4ab4-be1a-92e09a0d9b0b",
-      "transport": {
-        "path": "/1ae0ad22a728",
-        "type": "ws",
-        "headers": {
-          "Host": "silver-garden-aaa9.pages.dev"
-        }
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "silver-garden-aaa9.pages.dev",
-        "insecure": false,
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      }
-    },
-    {
-      "type": "vless",
-      "tag": "سرویس رایگان نوا @irnova 104.19.53.7:443 [VLESS]",
-      "server": "104.19.53.7",
-      "server_port": 443,
-      "uuid": "cc9a00e9-0af9-4ab4-be1a-92e09a0d9b0b",
-      "transport": {
-        "path": "/1ae0ad22a728",
-        "type": "ws",
-        "headers": {
-          "Host": "silver-garden-aaa9.pages.dev"
-        }
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "silver-garden-aaa9.pages.dev",
-        "insecure": false,
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      }
-    },
-    {
-      "type": "vless",
-      "tag": "سرویس رایگان نوا @irnova 104.17.59.102:443 [VLESS]",
-      "server": "104.17.59.102",
-      "server_port": 443,
-      "uuid": "cc9a00e9-0af9-4ab4-be1a-92e09a0d9b0b",
-      "transport": {
-        "path": "/1ae0ad22a728",
-        "type": "ws",
-        "headers": {
-          "Host": "silver-garden-aaa9.pages.dev"
-        }
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "silver-garden-aaa9.pages.dev",
-        "insecure": false,
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      }
-    },
-    {
-      "type": "vless",
-      "tag": "سرویس رایگان نوا @irnova 8.35.211.191:2096 [VLESS]",
-      "server": "8.35.211.191",
-      "server_port": 2096,
-      "uuid": "cc9a00e9-0af9-4ab4-be1a-92e09a0d9b0b",
-      "transport": {
-        "path": "/1ae0ad22a728",
-        "type": "ws",
-        "headers": {
-          "Host": "silver-garden-aaa9.pages.dev"
-        }
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "silver-garden-aaa9.pages.dev",
-        "insecure": false,
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      }
-    },
-    {
-      "type": "vless",
-      "tag": "سرویس رایگان نوا @irnova 104.17.172.219:2053 [VLESS]",
-      "server": "104.17.172.219",
-      "server_port": 2053,
-      "uuid": "cc9a00e9-0af9-4ab4-be1a-92e09a0d9b0b",
-      "transport": {
-        "path": "/1ae0ad22a728",
-        "type": "ws",
-        "headers": {
-          "Host": "silver-garden-aaa9.pages.dev"
-        }
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "silver-garden-aaa9.pages.dev",
-        "insecure": false,
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      }
-    },
-    {
-      "type": "vless",
-      "tag": "سرویس رایگان نوا @irnova 104.16.255.0:443 [VLESS]",
-      "server": "104.16.255.0",
-      "server_port": 443,
-      "uuid": "cc9a00e9-0af9-4ab4-be1a-92e09a0d9b0b",
-      "transport": {
-        "path": "/1ae0ad22a728",
-        "type": "ws",
-        "headers": {
-          "Host": "silver-garden-aaa9.pages.dev"
-        }
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "silver-garden-aaa9.pages.dev",
-        "insecure": false,
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      }
-    },
-    {
-      "type": "vless",
-      "tag": "سرویس رایگان نوا @irnova 8.39.125.79:2053 [VLESS]",
-      "server": "8.39.125.79",
-      "server_port": 2053,
-      "uuid": "cc9a00e9-0af9-4ab4-be1a-92e09a0d9b0b",
-      "transport": {
-        "path": "/1ae0ad22a728",
-        "type": "ws",
-        "headers": {
-          "Host": "silver-garden-aaa9.pages.dev"
-        }
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "silver-garden-aaa9.pages.dev",
-        "insecure": false,
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      }
-    },
-    {
-      "type": "vless",
-      "tag": "سرویس رایگان نوا @irnova 108.162.198.221:8443 [VLESS]",
-      "server": "108.162.198.221",
+      "tag": "سرویس رایگان نوا @irnova 104.17.153.192:8443 [VLESS]",
+      "server": "104.17.153.192",
       "server_port": 8443,
       "uuid": "cc9a00e9-0af9-4ab4-be1a-92e09a0d9b0b",
       "transport": {
         "path": "/1ae0ad22a728",
         "type": "ws",
         "headers": {
-          "Host": "silver-garden-aaa9.pages.dev"
+          "Host": "rosy-poppy-b1c4.backups9536-038.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "silver-garden-aaa9.pages.dev",
+        "server_name": "rosy-poppy-b1c4.backups9536-038.workers.dev",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "سرویس رایگان نوا @irnova 104.17.124.62:2087 [VLESS]",
+      "server": "104.17.124.62",
+      "server_port": 2087,
+      "uuid": "cc9a00e9-0af9-4ab4-be1a-92e09a0d9b0b",
+      "transport": {
+        "path": "/1ae0ad22a728",
+        "type": "ws",
+        "headers": {
+          "Host": "rosy-poppy-b1c4.backups9536-038.workers.dev"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "rosy-poppy-b1c4.backups9536-038.workers.dev",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "سرویس رایگان نوا @irnova 104.17.55.154:2053 [VLESS]",
+      "server": "104.17.55.154",
+      "server_port": 2053,
+      "uuid": "cc9a00e9-0af9-4ab4-be1a-92e09a0d9b0b",
+      "transport": {
+        "path": "/1ae0ad22a728",
+        "type": "ws",
+        "headers": {
+          "Host": "rosy-poppy-b1c4.backups9536-038.workers.dev"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "rosy-poppy-b1c4.backups9536-038.workers.dev",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "سرویس رایگان نوا @irnova 104.17.191.126:8443 [VLESS]",
+      "server": "104.17.191.126",
+      "server_port": 8443,
+      "uuid": "cc9a00e9-0af9-4ab4-be1a-92e09a0d9b0b",
+      "transport": {
+        "path": "/1ae0ad22a728",
+        "type": "ws",
+        "headers": {
+          "Host": "rosy-poppy-b1c4.backups9536-038.workers.dev"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "rosy-poppy-b1c4.backups9536-038.workers.dev",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "سرویس رایگان نوا @irnova 162.159.44.216:2087 [VLESS]",
+      "server": "162.159.44.216",
+      "server_port": 2087,
+      "uuid": "cc9a00e9-0af9-4ab4-be1a-92e09a0d9b0b",
+      "transport": {
+        "path": "/1ae0ad22a728",
+        "type": "ws",
+        "headers": {
+          "Host": "rosy-poppy-b1c4.backups9536-038.workers.dev"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "rosy-poppy-b1c4.backups9536-038.workers.dev",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "سرویس رایگان نوا @irnova 162.159.38.188:8443 [VLESS]",
+      "server": "162.159.38.188",
+      "server_port": 8443,
+      "uuid": "cc9a00e9-0af9-4ab4-be1a-92e09a0d9b0b",
+      "transport": {
+        "path": "/1ae0ad22a728",
+        "type": "ws",
+        "headers": {
+          "Host": "rosy-poppy-b1c4.backups9536-038.workers.dev"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "rosy-poppy-b1c4.backups9536-038.workers.dev",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "سرویس رایگان نوا @irnova 108.162.198.206:8443 [VLESS]",
+      "server": "108.162.198.206",
+      "server_port": 8443,
+      "uuid": "cc9a00e9-0af9-4ab4-be1a-92e09a0d9b0b",
+      "transport": {
+        "path": "/1ae0ad22a728",
+        "type": "ws",
+        "headers": {
+          "Host": "rosy-poppy-b1c4.backups9536-038.workers.dev"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "rosy-poppy-b1c4.backups9536-038.workers.dev",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "سرویس رایگان نوا @irnova 104.17.155.157:2083 [VLESS]",
+      "server": "104.17.155.157",
+      "server_port": 2083,
+      "uuid": "cc9a00e9-0af9-4ab4-be1a-92e09a0d9b0b",
+      "transport": {
+        "path": "/1ae0ad22a728",
+        "type": "ws",
+        "headers": {
+          "Host": "rosy-poppy-b1c4.backups9536-038.workers.dev"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "rosy-poppy-b1c4.backups9536-038.workers.dev",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "سرویس رایگان نوا @irnova 104.19.145.60:8443 [VLESS]",
+      "server": "104.19.145.60",
+      "server_port": 8443,
+      "uuid": "cc9a00e9-0af9-4ab4-be1a-92e09a0d9b0b",
+      "transport": {
+        "path": "/1ae0ad22a728",
+        "type": "ws",
+        "headers": {
+          "Host": "rosy-poppy-b1c4.backups9536-038.workers.dev"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "rosy-poppy-b1c4.backups9536-038.workers.dev",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "سرویس رایگان نوا @irnova 104.26.5.188:2087 [VLESS]",
+      "server": "104.26.5.188",
+      "server_port": 2087,
+      "uuid": "cc9a00e9-0af9-4ab4-be1a-92e09a0d9b0b",
+      "transport": {
+        "path": "/1ae0ad22a728",
+        "type": "ws",
+        "headers": {
+          "Host": "rosy-poppy-b1c4.backups9536-038.workers.dev"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "rosy-poppy-b1c4.backups9536-038.workers.dev",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "سرویس رایگان نوا @irnova 104.26.9.93:2053 [VLESS]",
+      "server": "104.26.9.93",
+      "server_port": 2053,
+      "uuid": "cc9a00e9-0af9-4ab4-be1a-92e09a0d9b0b",
+      "transport": {
+        "path": "/1ae0ad22a728",
+        "type": "ws",
+        "headers": {
+          "Host": "rosy-poppy-b1c4.backups9536-038.workers.dev"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "rosy-poppy-b1c4.backups9536-038.workers.dev",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "سرویس رایگان نوا @irnova 104.17.18.170:2053 [VLESS]",
+      "server": "104.17.18.170",
+      "server_port": 2053,
+      "uuid": "cc9a00e9-0af9-4ab4-be1a-92e09a0d9b0b",
+      "transport": {
+        "path": "/1ae0ad22a728",
+        "type": "ws",
+        "headers": {
+          "Host": "rosy-poppy-b1c4.backups9536-038.workers.dev"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "rosy-poppy-b1c4.backups9536-038.workers.dev",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "سرویس رایگان نوا @irnova 104.19.147.22:8443 [VLESS]",
+      "server": "104.19.147.22",
+      "server_port": 8443,
+      "uuid": "cc9a00e9-0af9-4ab4-be1a-92e09a0d9b0b",
+      "transport": {
+        "path": "/1ae0ad22a728",
+        "type": "ws",
+        "headers": {
+          "Host": "rosy-poppy-b1c4.backups9536-038.workers.dev"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "rosy-poppy-b1c4.backups9536-038.workers.dev",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "سرویس رایگان نوا @irnova 104.17.173.9:443 [VLESS]",
+      "server": "104.17.173.9",
+      "server_port": 443,
+      "uuid": "cc9a00e9-0af9-4ab4-be1a-92e09a0d9b0b",
+      "transport": {
+        "path": "/1ae0ad22a728",
+        "type": "ws",
+        "headers": {
+          "Host": "rosy-poppy-b1c4.backups9536-038.workers.dev"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "rosy-poppy-b1c4.backups9536-038.workers.dev",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "سرویس رایگان نوا @irnova 188.164.248.60:2053 [VLESS]",
+      "server": "188.164.248.60",
+      "server_port": 2053,
+      "uuid": "cc9a00e9-0af9-4ab4-be1a-92e09a0d9b0b",
+      "transport": {
+        "path": "/1ae0ad22a728",
+        "type": "ws",
+        "headers": {
+          "Host": "rosy-poppy-b1c4.backups9536-038.workers.dev"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "rosy-poppy-b1c4.backups9536-038.workers.dev",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "سرویس رایگان نوا @irnova 188.164.248.250:2053 [VLESS]",
+      "server": "188.164.248.250",
+      "server_port": 2053,
+      "uuid": "cc9a00e9-0af9-4ab4-be1a-92e09a0d9b0b",
+      "transport": {
+        "path": "/1ae0ad22a728",
+        "type": "ws",
+        "headers": {
+          "Host": "rosy-poppy-b1c4.backups9536-038.workers.dev"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "rosy-poppy-b1c4.backups9536-038.workers.dev",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -481,12 +481,12 @@
         "path": "/1ae0ad22a728",
         "type": "ws",
         "headers": {
-          "Host": "silver-garden-aaa9.pages.dev"
+          "Host": "rosy-poppy-b1c4.backups9536-038.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "silver-garden-aaa9.pages.dev",
+        "server_name": "rosy-poppy-b1c4.backups9536-038.workers.dev",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -504,12 +504,12 @@
         "path": "/1ae0ad22a728",
         "type": "ws",
         "headers": {
-          "Host": "silver-garden-aaa9.pages.dev"
+          "Host": "rosy-poppy-b1c4.backups9536-038.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "silver-garden-aaa9.pages.dev",
+        "server_name": "rosy-poppy-b1c4.backups9536-038.workers.dev",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -526,22 +526,22 @@
         "🔮 负载均衡",
         "DIRECT",
         "سرویس رایگان نوا @irnova silver-garden-aaa9.pages.dev:443 [VLESS]",
-        "سرویس رایگان نوا @irnova 91.193.59.226:2083 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.16.152.136:2096 [VLESS]",
-        "سرویس رایگان نوا @irnova 172.66.0.12:443 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.18.33.64:2053 [VLESS]",
-        "سرویس رایگان نوا @irnova 8.39.125.248:2087 [VLESS]",
-        "سرویس رایگان نوا @irnova 198.41.209.34:2083 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.17.113.64:2087 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.17.185.50:2087 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.17.59.131:443 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.19.53.7:443 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.17.59.102:443 [VLESS]",
-        "سرویس رایگان نوا @irnova 8.35.211.191:2096 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.17.172.219:2053 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.16.255.0:443 [VLESS]",
-        "سرویس رایگان نوا @irnova 8.39.125.79:2053 [VLESS]",
-        "سرویس رایگان نوا @irnova 108.162.198.221:8443 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.17.153.192:8443 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.17.124.62:2087 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.17.55.154:2053 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.17.191.126:8443 [VLESS]",
+        "سرویس رایگان نوا @irnova 162.159.44.216:2087 [VLESS]",
+        "سرویس رایگان نوا @irnova 162.159.38.188:8443 [VLESS]",
+        "سرویس رایگان نوا @irnova 108.162.198.206:8443 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.17.155.157:2083 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.19.145.60:8443 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.26.5.188:2087 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.26.9.93:2053 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.17.18.170:2053 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.19.147.22:8443 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.17.173.9:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 188.164.248.60:2053 [VLESS]",
+        "سرویس رایگان نوا @irnova 188.164.248.250:2053 [VLESS]",
         "سرویس رایگان نوا @irnova 104.18.0.0:443 [VLESS]",
         "سرویس رایگان نوا @irnova 104.18.1.1:2053 [VLESS]",
         "📢 https://t.me/irnova",
@@ -553,22 +553,22 @@
       "tag": "♻️ 自动选择",
       "outbounds": [
         "سرویس رایگان نوا @irnova silver-garden-aaa9.pages.dev:443 [VLESS]",
-        "سرویس رایگان نوا @irnova 91.193.59.226:2083 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.16.152.136:2096 [VLESS]",
-        "سرویس رایگان نوا @irnova 172.66.0.12:443 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.18.33.64:2053 [VLESS]",
-        "سرویس رایگان نوا @irnova 8.39.125.248:2087 [VLESS]",
-        "سرویس رایگان نوا @irnova 198.41.209.34:2083 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.17.113.64:2087 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.17.185.50:2087 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.17.59.131:443 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.19.53.7:443 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.17.59.102:443 [VLESS]",
-        "سرویس رایگان نوا @irnova 8.35.211.191:2096 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.17.172.219:2053 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.16.255.0:443 [VLESS]",
-        "سرویس رایگان نوا @irnova 8.39.125.79:2053 [VLESS]",
-        "سرویس رایگان نوا @irnova 108.162.198.221:8443 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.17.153.192:8443 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.17.124.62:2087 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.17.55.154:2053 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.17.191.126:8443 [VLESS]",
+        "سرویس رایگان نوا @irnova 162.159.44.216:2087 [VLESS]",
+        "سرویس رایگان نوا @irnova 162.159.38.188:8443 [VLESS]",
+        "سرویس رایگان نوا @irnova 108.162.198.206:8443 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.17.155.157:2083 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.19.145.60:8443 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.26.5.188:2087 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.26.9.93:2053 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.17.18.170:2053 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.19.147.22:8443 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.17.173.9:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 188.164.248.60:2053 [VLESS]",
+        "سرویس رایگان نوا @irnova 188.164.248.250:2053 [VLESS]",
         "سرویس رایگان نوا @irnova 104.18.0.0:443 [VLESS]",
         "سرویس رایگان نوا @irnova 104.18.1.1:2053 [VLESS]"
       ],
@@ -581,22 +581,22 @@
       "tag": "🔯 故障转移",
       "outbounds": [
         "سرویس رایگان نوا @irnova silver-garden-aaa9.pages.dev:443 [VLESS]",
-        "سرویس رایگان نوا @irnova 91.193.59.226:2083 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.16.152.136:2096 [VLESS]",
-        "سرویس رایگان نوا @irnova 172.66.0.12:443 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.18.33.64:2053 [VLESS]",
-        "سرویس رایگان نوا @irnova 8.39.125.248:2087 [VLESS]",
-        "سرویس رایگان نوا @irnova 198.41.209.34:2083 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.17.113.64:2087 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.17.185.50:2087 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.17.59.131:443 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.19.53.7:443 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.17.59.102:443 [VLESS]",
-        "سرویس رایگان نوا @irnova 8.35.211.191:2096 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.17.172.219:2053 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.16.255.0:443 [VLESS]",
-        "سرویس رایگان نوا @irnova 8.39.125.79:2053 [VLESS]",
-        "سرویس رایگان نوا @irnova 108.162.198.221:8443 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.17.153.192:8443 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.17.124.62:2087 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.17.55.154:2053 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.17.191.126:8443 [VLESS]",
+        "سرویس رایگان نوا @irnova 162.159.44.216:2087 [VLESS]",
+        "سرویس رایگان نوا @irnova 162.159.38.188:8443 [VLESS]",
+        "سرویس رایگان نوا @irnova 108.162.198.206:8443 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.17.155.157:2083 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.19.145.60:8443 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.26.5.188:2087 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.26.9.93:2053 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.17.18.170:2053 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.19.147.22:8443 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.17.173.9:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 188.164.248.60:2053 [VLESS]",
+        "سرویس رایگان نوا @irnova 188.164.248.250:2053 [VLESS]",
         "سرویس رایگان نوا @irnova 104.18.0.0:443 [VLESS]",
         "سرویس رایگان نوا @irnova 104.18.1.1:2053 [VLESS]"
       ]
@@ -606,22 +606,22 @@
       "tag": "🔮 负载均衡",
       "outbounds": [
         "سرویس رایگان نوا @irnova silver-garden-aaa9.pages.dev:443 [VLESS]",
-        "سرویس رایگان نوا @irnova 91.193.59.226:2083 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.16.152.136:2096 [VLESS]",
-        "سرویس رایگان نوا @irnova 172.66.0.12:443 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.18.33.64:2053 [VLESS]",
-        "سرویس رایگان نوا @irnova 8.39.125.248:2087 [VLESS]",
-        "سرویس رایگان نوا @irnova 198.41.209.34:2083 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.17.113.64:2087 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.17.185.50:2087 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.17.59.131:443 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.19.53.7:443 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.17.59.102:443 [VLESS]",
-        "سرویس رایگان نوا @irnova 8.35.211.191:2096 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.17.172.219:2053 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.16.255.0:443 [VLESS]",
-        "سرویس رایگان نوا @irnova 8.39.125.79:2053 [VLESS]",
-        "سرویس رایگان نوا @irnova 108.162.198.221:8443 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.17.153.192:8443 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.17.124.62:2087 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.17.55.154:2053 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.17.191.126:8443 [VLESS]",
+        "سرویس رایگان نوا @irnova 162.159.44.216:2087 [VLESS]",
+        "سرویس رایگان نوا @irnova 162.159.38.188:8443 [VLESS]",
+        "سرویس رایگان نوا @irnova 108.162.198.206:8443 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.17.155.157:2083 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.19.145.60:8443 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.26.5.188:2087 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.26.9.93:2053 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.17.18.170:2053 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.19.147.22:8443 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.17.173.9:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 188.164.248.60:2053 [VLESS]",
+        "سرویس رایگان نوا @irnova 188.164.248.250:2053 [VLESS]",
         "سرویس رایگان نوا @irnova 104.18.0.0:443 [VLESS]",
         "سرویس رایگان نوا @irnova 104.18.1.1:2053 [VLESS]"
       ]
@@ -657,22 +657,22 @@
         "🔯 故障转移",
         "🔮 负载均衡",
         "سرویس رایگان نوا @irnova silver-garden-aaa9.pages.dev:443 [VLESS]",
-        "سرویس رایگان نوا @irnova 91.193.59.226:2083 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.16.152.136:2096 [VLESS]",
-        "سرویس رایگان نوا @irnova 172.66.0.12:443 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.18.33.64:2053 [VLESS]",
-        "سرویس رایگان نوا @irnova 8.39.125.248:2087 [VLESS]",
-        "سرویس رایگان نوا @irnova 198.41.209.34:2083 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.17.113.64:2087 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.17.185.50:2087 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.17.59.131:443 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.19.53.7:443 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.17.59.102:443 [VLESS]",
-        "سرویس رایگان نوا @irnova 8.35.211.191:2096 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.17.172.219:2053 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.16.255.0:443 [VLESS]",
-        "سرویس رایگان نوا @irnova 8.39.125.79:2053 [VLESS]",
-        "سرویس رایگان نوا @irnova 108.162.198.221:8443 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.17.153.192:8443 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.17.124.62:2087 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.17.55.154:2053 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.17.191.126:8443 [VLESS]",
+        "سرویس رایگان نوا @irnova 162.159.44.216:2087 [VLESS]",
+        "سرویس رایگان نوا @irnova 162.159.38.188:8443 [VLESS]",
+        "سرویس رایگان نوا @irnova 108.162.198.206:8443 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.17.155.157:2083 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.19.145.60:8443 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.26.5.188:2087 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.26.9.93:2053 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.17.18.170:2053 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.19.147.22:8443 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.17.173.9:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 188.164.248.60:2053 [VLESS]",
+        "سرویس رایگان نوا @irnova 188.164.248.250:2053 [VLESS]",
         "سرویس رایگان نوا @irnova 104.18.0.0:443 [VLESS]",
         "سرویس رایگان نوا @irnova 104.18.1.1:2053 [VLESS]",
         "📢 https://t.me/irnova",
@@ -690,22 +690,22 @@
         "🔯 故障转移",
         "🔮 负载均衡",
         "سرویس رایگان نوا @irnova silver-garden-aaa9.pages.dev:443 [VLESS]",
-        "سرویس رایگان نوا @irnova 91.193.59.226:2083 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.16.152.136:2096 [VLESS]",
-        "سرویس رایگان نوا @irnova 172.66.0.12:443 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.18.33.64:2053 [VLESS]",
-        "سرویس رایگان نوا @irnova 8.39.125.248:2087 [VLESS]",
-        "سرویس رایگان نوا @irnova 198.41.209.34:2083 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.17.113.64:2087 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.17.185.50:2087 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.17.59.131:443 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.19.53.7:443 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.17.59.102:443 [VLESS]",
-        "سرویس رایگان نوا @irnova 8.35.211.191:2096 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.17.172.219:2053 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.16.255.0:443 [VLESS]",
-        "سرویس رایگان نوا @irnova 8.39.125.79:2053 [VLESS]",
-        "سرویس رایگان نوا @irnova 108.162.198.221:8443 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.17.153.192:8443 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.17.124.62:2087 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.17.55.154:2053 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.17.191.126:8443 [VLESS]",
+        "سرویس رایگان نوا @irnova 162.159.44.216:2087 [VLESS]",
+        "سرویس رایگان نوا @irnova 162.159.38.188:8443 [VLESS]",
+        "سرویس رایگان نوا @irnova 108.162.198.206:8443 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.17.155.157:2083 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.19.145.60:8443 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.26.5.188:2087 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.26.9.93:2053 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.17.18.170:2053 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.19.147.22:8443 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.17.173.9:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 188.164.248.60:2053 [VLESS]",
+        "سرویس رایگان نوا @irnova 188.164.248.250:2053 [VLESS]",
         "سرویس رایگان نوا @irnova 104.18.0.0:443 [VLESS]",
         "سرویس رایگان نوا @irnova 104.18.1.1:2053 [VLESS]",
         "📢 https://t.me/irnova",
@@ -718,22 +718,22 @@
       "outbounds": [
         "DIRECT",
         "سرویس رایگان نوا @irnova silver-garden-aaa9.pages.dev:443 [VLESS]",
-        "سرویس رایگان نوا @irnova 91.193.59.226:2083 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.16.152.136:2096 [VLESS]",
-        "سرویس رایگان نوا @irnova 172.66.0.12:443 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.18.33.64:2053 [VLESS]",
-        "سرویس رایگان نوا @irnova 8.39.125.248:2087 [VLESS]",
-        "سرویس رایگان نوا @irnova 198.41.209.34:2083 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.17.113.64:2087 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.17.185.50:2087 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.17.59.131:443 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.19.53.7:443 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.17.59.102:443 [VLESS]",
-        "سرویس رایگان نوا @irnova 8.35.211.191:2096 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.17.172.219:2053 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.16.255.0:443 [VLESS]",
-        "سرویس رایگان نوا @irnova 8.39.125.79:2053 [VLESS]",
-        "سرویس رایگان نوا @irnova 108.162.198.221:8443 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.17.153.192:8443 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.17.124.62:2087 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.17.55.154:2053 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.17.191.126:8443 [VLESS]",
+        "سرویس رایگان نوا @irnova 162.159.44.216:2087 [VLESS]",
+        "سرویس رایگان نوا @irnova 162.159.38.188:8443 [VLESS]",
+        "سرویس رایگان نوا @irnova 108.162.198.206:8443 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.17.155.157:2083 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.19.145.60:8443 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.26.5.188:2087 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.26.9.93:2053 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.17.18.170:2053 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.19.147.22:8443 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.17.173.9:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 188.164.248.60:2053 [VLESS]",
+        "سرویس رایگان نوا @irnova 188.164.248.250:2053 [VLESS]",
         "سرویس رایگان نوا @irnova 104.18.0.0:443 [VLESS]",
         "سرویس رایگان نوا @irnova 104.18.1.1:2053 [VLESS]",
         "📢 https://t.me/irnova",
