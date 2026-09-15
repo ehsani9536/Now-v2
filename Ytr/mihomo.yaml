@@ -44,22 +44,22 @@ proxies:
     mtu: 1280
     amnezia-wg-option: {jc: 4, jmin: 40, jmax: 70}
   - {name: "سرویس رایگان نوا @irnova silver-garden-aaa9.pages.dev:443 [VLESS]", server: silver-garden-aaa9.pages.dev, port: 443, type: vless, uuid: cc9a00e9-0af9-4ab4-be1a-92e09a0d9b0b, tls: true, skip-cert-verify: false, servername: silver-garden-aaa9.pages.dev, client-fingerprint: unsafe, network: ws, ws-opts: {path: /1ae0ad22a728/proxyip=, headers: {Host: silver-garden-aaa9.pages.dev}}}
-  - {name: "سرویس رایگان نوا @irnova 104.17.31.178:8443 [VLESS]", server: 104.17.31.178, port: 8443, type: vless, uuid: cc9a00e9-0af9-4ab4-be1a-92e09a0d9b0b, tls: true, skip-cert-verify: false, servername: silver-garden-aaa9.pages.dev, client-fingerprint: unsafe, network: ws, ws-opts: {path: /1ae0ad22a728/proxyip=, headers: {Host: silver-garden-aaa9.pages.dev}}}
-  - {name: "سرویس رایگان نوا @irnova 104.16.151.142:443 [VLESS]", server: 104.16.151.142, port: 443, type: vless, uuid: cc9a00e9-0af9-4ab4-be1a-92e09a0d9b0b, tls: true, skip-cert-verify: false, servername: silver-garden-aaa9.pages.dev, client-fingerprint: unsafe, network: ws, ws-opts: {path: /1ae0ad22a728/proxyip=, headers: {Host: silver-garden-aaa9.pages.dev}}}
-  - {name: "سرویس رایگان نوا @irnova 104.26.9.115:2053 [VLESS]", server: 104.26.9.115, port: 2053, type: vless, uuid: cc9a00e9-0af9-4ab4-be1a-92e09a0d9b0b, tls: true, skip-cert-verify: false, servername: silver-garden-aaa9.pages.dev, client-fingerprint: unsafe, network: ws, ws-opts: {path: /1ae0ad22a728/proxyip=, headers: {Host: silver-garden-aaa9.pages.dev}}}
-  - {name: "سرویس رایگان نوا @irnova 198.41.209.81:8443 [VLESS]", server: 198.41.209.81, port: 8443, type: vless, uuid: cc9a00e9-0af9-4ab4-be1a-92e09a0d9b0b, tls: true, skip-cert-verify: false, servername: silver-garden-aaa9.pages.dev, client-fingerprint: unsafe, network: ws, ws-opts: {path: /1ae0ad22a728/proxyip=, headers: {Host: silver-garden-aaa9.pages.dev}}}
-  - {name: "سرویس رایگان نوا @irnova 104.17.167.241:2087 [VLESS]", server: 104.17.167.241, port: 2087, type: vless, uuid: cc9a00e9-0af9-4ab4-be1a-92e09a0d9b0b, tls: true, skip-cert-verify: false, servername: silver-garden-aaa9.pages.dev, client-fingerprint: unsafe, network: ws, ws-opts: {path: /1ae0ad22a728/proxyip=, headers: {Host: silver-garden-aaa9.pages.dev}}}
-  - {name: "سرویس رایگان نوا @irnova 198.41.209.30:2096 [VLESS]", server: 198.41.209.30, port: 2096, type: vless, uuid: cc9a00e9-0af9-4ab4-be1a-92e09a0d9b0b, tls: true, skip-cert-verify: false, servername: silver-garden-aaa9.pages.dev, client-fingerprint: unsafe, network: ws, ws-opts: {path: /1ae0ad22a728/proxyip=, headers: {Host: silver-garden-aaa9.pages.dev}}}
-  - {name: "سرویس رایگان نوا @irnova 8.35.211.220:2053 [VLESS]", server: 8.35.211.220, port: 2053, type: vless, uuid: cc9a00e9-0af9-4ab4-be1a-92e09a0d9b0b, tls: true, skip-cert-verify: false, servername: silver-garden-aaa9.pages.dev, client-fingerprint: unsafe, network: ws, ws-opts: {path: /1ae0ad22a728/proxyip=, headers: {Host: silver-garden-aaa9.pages.dev}}}
-  - {name: "سرویس رایگان نوا @irnova 104.17.181.163:2083 [VLESS]", server: 104.17.181.163, port: 2083, type: vless, uuid: cc9a00e9-0af9-4ab4-be1a-92e09a0d9b0b, tls: true, skip-cert-verify: false, servername: silver-garden-aaa9.pages.dev, client-fingerprint: unsafe, network: ws, ws-opts: {path: /1ae0ad22a728/proxyip=, headers: {Host: silver-garden-aaa9.pages.dev}}}
-  - {name: "سرویس رایگان نوا @irnova 104.16.150.186:8443 [VLESS]", server: 104.16.150.186, port: 8443, type: vless, uuid: cc9a00e9-0af9-4ab4-be1a-92e09a0d9b0b, tls: true, skip-cert-verify: false, servername: silver-garden-aaa9.pages.dev, client-fingerprint: unsafe, network: ws, ws-opts: {path: /1ae0ad22a728/proxyip=, headers: {Host: silver-garden-aaa9.pages.dev}}}
-  - {name: "سرویس رایگان نوا @irnova 104.17.147.14:2087 [VLESS]", server: 104.17.147.14, port: 2087, type: vless, uuid: cc9a00e9-0af9-4ab4-be1a-92e09a0d9b0b, tls: true, skip-cert-verify: false, servername: silver-garden-aaa9.pages.dev, client-fingerprint: unsafe, network: ws, ws-opts: {path: /1ae0ad22a728/proxyip=, headers: {Host: silver-garden-aaa9.pages.dev}}}
-  - {name: "سرویس رایگان نوا @irnova 104.17.223.227:443 [VLESS]", server: 104.17.223.227, port: 443, type: vless, uuid: cc9a00e9-0af9-4ab4-be1a-92e09a0d9b0b, tls: true, skip-cert-verify: false, servername: silver-garden-aaa9.pages.dev, client-fingerprint: unsafe, network: ws, ws-opts: {path: /1ae0ad22a728/proxyip=, headers: {Host: silver-garden-aaa9.pages.dev}}}
-  - {name: "سرویس رایگان نوا @irnova 104.17.53.36:443 [VLESS]", server: 104.17.53.36, port: 443, type: vless, uuid: cc9a00e9-0af9-4ab4-be1a-92e09a0d9b0b, tls: true, skip-cert-verify: false, servername: silver-garden-aaa9.pages.dev, client-fingerprint: unsafe, network: ws, ws-opts: {path: /1ae0ad22a728/proxyip=, headers: {Host: silver-garden-aaa9.pages.dev}}}
-  - {name: "سرویس رایگان نوا @irnova 104.19.33.69:2083 [VLESS]", server: 104.19.33.69, port: 2083, type: vless, uuid: cc9a00e9-0af9-4ab4-be1a-92e09a0d9b0b, tls: true, skip-cert-verify: false, servername: silver-garden-aaa9.pages.dev, client-fingerprint: unsafe, network: ws, ws-opts: {path: /1ae0ad22a728/proxyip=, headers: {Host: silver-garden-aaa9.pages.dev}}}
-  - {name: "سرویس رایگان نوا @irnova 104.19.55.97:2083 [VLESS]", server: 104.19.55.97, port: 2083, type: vless, uuid: cc9a00e9-0af9-4ab4-be1a-92e09a0d9b0b, tls: true, skip-cert-verify: false, servername: silver-garden-aaa9.pages.dev, client-fingerprint: unsafe, network: ws, ws-opts: {path: /1ae0ad22a728/proxyip=, headers: {Host: silver-garden-aaa9.pages.dev}}}
-  - {name: "سرویس رایگان نوا @irnova 104.17.103.124:2087 [VLESS]", server: 104.17.103.124, port: 2087, type: vless, uuid: cc9a00e9-0af9-4ab4-be1a-92e09a0d9b0b, tls: true, skip-cert-verify: false, servername: silver-garden-aaa9.pages.dev, client-fingerprint: unsafe, network: ws, ws-opts: {path: /1ae0ad22a728/proxyip=, headers: {Host: silver-garden-aaa9.pages.dev}}}
-  - {name: "سرویس رایگان نوا @irnova 162.159.36.119:2096 [VLESS]", server: 162.159.36.119, port: 2096, type: vless, uuid: cc9a00e9-0af9-4ab4-be1a-92e09a0d9b0b, tls: true, skip-cert-verify: false, servername: silver-garden-aaa9.pages.dev, client-fingerprint: unsafe, network: ws, ws-opts: {path: /1ae0ad22a728/proxyip=, headers: {Host: silver-garden-aaa9.pages.dev}}}
+  - {name: "سرویس رایگان نوا @irnova 104.26.11.233:2087 [VLESS]", server: 104.26.11.233, port: 2087, type: vless, uuid: cc9a00e9-0af9-4ab4-be1a-92e09a0d9b0b, tls: true, skip-cert-verify: false, servername: silver-garden-aaa9.pages.dev, client-fingerprint: unsafe, network: ws, ws-opts: {path: /1ae0ad22a728/proxyip=, headers: {Host: silver-garden-aaa9.pages.dev}}}
+  - {name: "سرویس رایگان نوا @irnova 104.17.58.238:443 [VLESS]", server: 104.17.58.238, port: 443, type: vless, uuid: cc9a00e9-0af9-4ab4-be1a-92e09a0d9b0b, tls: true, skip-cert-verify: false, servername: silver-garden-aaa9.pages.dev, client-fingerprint: unsafe, network: ws, ws-opts: {path: /1ae0ad22a728/proxyip=, headers: {Host: silver-garden-aaa9.pages.dev}}}
+  - {name: "سرویس رایگان نوا @irnova 104.26.0.234:2053 [VLESS]", server: 104.26.0.234, port: 2053, type: vless, uuid: cc9a00e9-0af9-4ab4-be1a-92e09a0d9b0b, tls: true, skip-cert-verify: false, servername: silver-garden-aaa9.pages.dev, client-fingerprint: unsafe, network: ws, ws-opts: {path: /1ae0ad22a728/proxyip=, headers: {Host: silver-garden-aaa9.pages.dev}}}
+  - {name: "سرویس رایگان نوا @irnova 188.164.248.23:2053 [VLESS]", server: 188.164.248.23, port: 2053, type: vless, uuid: cc9a00e9-0af9-4ab4-be1a-92e09a0d9b0b, tls: true, skip-cert-verify: false, servername: silver-garden-aaa9.pages.dev, client-fingerprint: unsafe, network: ws, ws-opts: {path: /1ae0ad22a728/proxyip=, headers: {Host: silver-garden-aaa9.pages.dev}}}
+  - {name: "سرویس رایگان نوا @irnova 104.17.23.110:8443 [VLESS]", server: 104.17.23.110, port: 8443, type: vless, uuid: cc9a00e9-0af9-4ab4-be1a-92e09a0d9b0b, tls: true, skip-cert-verify: false, servername: silver-garden-aaa9.pages.dev, client-fingerprint: unsafe, network: ws, ws-opts: {path: /1ae0ad22a728/proxyip=, headers: {Host: silver-garden-aaa9.pages.dev}}}
+  - {name: "سرویس رایگان نوا @irnova 172.67.64.104:2053 [VLESS]", server: 172.67.64.104, port: 2053, type: vless, uuid: cc9a00e9-0af9-4ab4-be1a-92e09a0d9b0b, tls: true, skip-cert-verify: false, servername: silver-garden-aaa9.pages.dev, client-fingerprint: unsafe, network: ws, ws-opts: {path: /1ae0ad22a728/proxyip=, headers: {Host: silver-garden-aaa9.pages.dev}}}
+  - {name: "سرویس رایگان نوا @irnova 104.17.208.128:8443 [VLESS]", server: 104.17.208.128, port: 8443, type: vless, uuid: cc9a00e9-0af9-4ab4-be1a-92e09a0d9b0b, tls: true, skip-cert-verify: false, servername: silver-garden-aaa9.pages.dev, client-fingerprint: unsafe, network: ws, ws-opts: {path: /1ae0ad22a728/proxyip=, headers: {Host: silver-garden-aaa9.pages.dev}}}
+  - {name: "سرویس رایگان نوا @irnova 162.159.37.179:2096 [VLESS]", server: 162.159.37.179, port: 2096, type: vless, uuid: cc9a00e9-0af9-4ab4-be1a-92e09a0d9b0b, tls: true, skip-cert-verify: false, servername: silver-garden-aaa9.pages.dev, client-fingerprint: unsafe, network: ws, ws-opts: {path: /1ae0ad22a728/proxyip=, headers: {Host: silver-garden-aaa9.pages.dev}}}
+  - {name: "سرویس رایگان نوا @irnova 162.159.32.14:443 [VLESS]", server: 162.159.32.14, port: 443, type: vless, uuid: cc9a00e9-0af9-4ab4-be1a-92e09a0d9b0b, tls: true, skip-cert-verify: false, servername: silver-garden-aaa9.pages.dev, client-fingerprint: unsafe, network: ws, ws-opts: {path: /1ae0ad22a728/proxyip=, headers: {Host: silver-garden-aaa9.pages.dev}}}
+  - {name: "سرویس رایگان نوا @irnova 172.66.1.74:2087 [VLESS]", server: 172.66.1.74, port: 2087, type: vless, uuid: cc9a00e9-0af9-4ab4-be1a-92e09a0d9b0b, tls: true, skip-cert-verify: false, servername: silver-garden-aaa9.pages.dev, client-fingerprint: unsafe, network: ws, ws-opts: {path: /1ae0ad22a728/proxyip=, headers: {Host: silver-garden-aaa9.pages.dev}}}
+  - {name: "سرویس رایگان نوا @irnova 104.17.171.85:2096 [VLESS]", server: 104.17.171.85, port: 2096, type: vless, uuid: cc9a00e9-0af9-4ab4-be1a-92e09a0d9b0b, tls: true, skip-cert-verify: false, servername: silver-garden-aaa9.pages.dev, client-fingerprint: unsafe, network: ws, ws-opts: {path: /1ae0ad22a728/proxyip=, headers: {Host: silver-garden-aaa9.pages.dev}}}
+  - {name: "سرویس رایگان نوا @irnova 8.39.125.197:2083 [VLESS]", server: 8.39.125.197, port: 2083, type: vless, uuid: cc9a00e9-0af9-4ab4-be1a-92e09a0d9b0b, tls: true, skip-cert-verify: false, servername: silver-garden-aaa9.pages.dev, client-fingerprint: unsafe, network: ws, ws-opts: {path: /1ae0ad22a728/proxyip=, headers: {Host: silver-garden-aaa9.pages.dev}}}
+  - {name: "سرویس رایگان نوا @irnova 8.35.211.184:2087 [VLESS]", server: 8.35.211.184, port: 2087, type: vless, uuid: cc9a00e9-0af9-4ab4-be1a-92e09a0d9b0b, tls: true, skip-cert-verify: false, servername: silver-garden-aaa9.pages.dev, client-fingerprint: unsafe, network: ws, ws-opts: {path: /1ae0ad22a728/proxyip=, headers: {Host: silver-garden-aaa9.pages.dev}}}
+  - {name: "سرویس رایگان نوا @irnova 104.26.12.18:443 [VLESS]", server: 104.26.12.18, port: 443, type: vless, uuid: cc9a00e9-0af9-4ab4-be1a-92e09a0d9b0b, tls: true, skip-cert-verify: false, servername: silver-garden-aaa9.pages.dev, client-fingerprint: unsafe, network: ws, ws-opts: {path: /1ae0ad22a728/proxyip=, headers: {Host: silver-garden-aaa9.pages.dev}}}
+  - {name: "سرویس رایگان نوا @irnova 104.17.165.160:2083 [VLESS]", server: 104.17.165.160, port: 2083, type: vless, uuid: cc9a00e9-0af9-4ab4-be1a-92e09a0d9b0b, tls: true, skip-cert-verify: false, servername: silver-garden-aaa9.pages.dev, client-fingerprint: unsafe, network: ws, ws-opts: {path: /1ae0ad22a728/proxyip=, headers: {Host: silver-garden-aaa9.pages.dev}}}
+  - {name: "سرویس رایگان نوا @irnova 104.19.52.144:443 [VLESS]", server: 104.19.52.144, port: 443, type: vless, uuid: cc9a00e9-0af9-4ab4-be1a-92e09a0d9b0b, tls: true, skip-cert-verify: false, servername: silver-garden-aaa9.pages.dev, client-fingerprint: unsafe, network: ws, ws-opts: {path: /1ae0ad22a728/proxyip=, headers: {Host: silver-garden-aaa9.pages.dev}}}
 proxy-groups:
   - name: 🚀 节点选择
     type: select
@@ -77,22 +77,22 @@ proxy-groups:
       - "📢 https://t.me/irnova"
       - "📊 0.00GB / 9999GB (0%)  |  📅 2099-01-01"
       - سرویس رایگان نوا @irnova silver-garden-aaa9.pages.dev:443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.31.178:8443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.16.151.142:443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.26.9.115:2053 [VLESS]
-      - سرویس رایگان نوا @irnova 198.41.209.81:8443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.167.241:2087 [VLESS]
-      - سرویس رایگان نوا @irnova 198.41.209.30:2096 [VLESS]
-      - سرویس رایگان نوا @irnova 8.35.211.220:2053 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.181.163:2083 [VLESS]
-      - سرویس رایگان نوا @irnova 104.16.150.186:8443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.147.14:2087 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.223.227:443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.53.36:443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.19.33.69:2083 [VLESS]
-      - سرویس رایگان نوا @irnova 104.19.55.97:2083 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.103.124:2087 [VLESS]
-      - سرویس رایگان نوا @irnova 162.159.36.119:2096 [VLESS]
+      - سرویس رایگان نوا @irnova 104.26.11.233:2087 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.58.238:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.26.0.234:2053 [VLESS]
+      - سرویس رایگان نوا @irnova 188.164.248.23:2053 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.23.110:8443 [VLESS]
+      - سرویس رایگان نوا @irnova 172.67.64.104:2053 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.208.128:8443 [VLESS]
+      - سرویس رایگان نوا @irnova 162.159.37.179:2096 [VLESS]
+      - سرویس رایگان نوا @irnova 162.159.32.14:443 [VLESS]
+      - سرویس رایگان نوا @irnova 172.66.1.74:2087 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.171.85:2096 [VLESS]
+      - سرویس رایگان نوا @irnova 8.39.125.197:2083 [VLESS]
+      - سرویس رایگان نوا @irnova 8.35.211.184:2087 [VLESS]
+      - سرویس رایگان نوا @irnova 104.26.12.18:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.165.160:2083 [VLESS]
+      - سرویس رایگان نوا @irnova 104.19.52.144:443 [VLESS]
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
@@ -100,22 +100,22 @@ proxy-groups:
     tolerance: 50
     proxies:
       - سرویس رایگان نوا @irnova silver-garden-aaa9.pages.dev:443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.31.178:8443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.16.151.142:443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.26.9.115:2053 [VLESS]
-      - سرویس رایگان نوا @irnova 198.41.209.81:8443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.167.241:2087 [VLESS]
-      - سرویس رایگان نوا @irnova 198.41.209.30:2096 [VLESS]
-      - سرویس رایگان نوا @irnova 8.35.211.220:2053 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.181.163:2083 [VLESS]
-      - سرویس رایگان نوا @irnova 104.16.150.186:8443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.147.14:2087 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.223.227:443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.53.36:443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.19.33.69:2083 [VLESS]
-      - سرویس رایگان نوا @irnova 104.19.55.97:2083 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.103.124:2087 [VLESS]
-      - سرویس رایگان نوا @irnova 162.159.36.119:2096 [VLESS]
+      - سرویس رایگان نوا @irnova 104.26.11.233:2087 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.58.238:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.26.0.234:2053 [VLESS]
+      - سرویس رایگان نوا @irnova 188.164.248.23:2053 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.23.110:8443 [VLESS]
+      - سرویس رایگان نوا @irnova 172.67.64.104:2053 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.208.128:8443 [VLESS]
+      - سرویس رایگان نوا @irnova 162.159.37.179:2096 [VLESS]
+      - سرویس رایگان نوا @irnova 162.159.32.14:443 [VLESS]
+      - سرویس رایگان نوا @irnova 172.66.1.74:2087 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.171.85:2096 [VLESS]
+      - سرویس رایگان نوا @irnova 8.39.125.197:2083 [VLESS]
+      - سرویس رایگان نوا @irnova 8.35.211.184:2087 [VLESS]
+      - سرویس رایگان نوا @irnova 104.26.12.18:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.165.160:2083 [VLESS]
+      - سرویس رایگان نوا @irnova 104.19.52.144:443 [VLESS]
   - name: 📹 油管视频
     type: select
     proxies:
@@ -143,22 +143,22 @@ proxy-groups:
       - ♻️ 自动选择
       - 🎯 全球直连
       - سرویس رایگان نوا @irnova silver-garden-aaa9.pages.dev:443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.31.178:8443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.16.151.142:443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.26.9.115:2053 [VLESS]
-      - سرویس رایگان نوا @irnova 198.41.209.81:8443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.167.241:2087 [VLESS]
-      - سرویس رایگان نوا @irnova 198.41.209.30:2096 [VLESS]
-      - سرویس رایگان نوا @irnova 8.35.211.220:2053 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.181.163:2083 [VLESS]
-      - سرویس رایگان نوا @irnova 104.16.150.186:8443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.147.14:2087 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.223.227:443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.53.36:443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.19.33.69:2083 [VLESS]
-      - سرویس رایگان نوا @irnova 104.19.55.97:2083 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.103.124:2087 [VLESS]
-      - سرویس رایگان نوا @irnova 162.159.36.119:2096 [VLESS]
+      - سرویس رایگان نوا @irnova 104.26.11.233:2087 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.58.238:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.26.0.234:2053 [VLESS]
+      - سرویس رایگان نوا @irnova 188.164.248.23:2053 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.23.110:8443 [VLESS]
+      - سرویس رایگان نوا @irnova 172.67.64.104:2053 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.208.128:8443 [VLESS]
+      - سرویس رایگان نوا @irnova 162.159.37.179:2096 [VLESS]
+      - سرویس رایگان نوا @irnova 162.159.32.14:443 [VLESS]
+      - سرویس رایگان نوا @irnova 172.66.1.74:2087 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.171.85:2096 [VLESS]
+      - سرویس رایگان نوا @irnova 8.39.125.197:2083 [VLESS]
+      - سرویس رایگان نوا @irnova 8.35.211.184:2087 [VLESS]
+      - سرویس رایگان نوا @irnova 104.26.12.18:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.165.160:2083 [VLESS]
+      - سرویس رایگان نوا @irnova 104.19.52.144:443 [VLESS]
   - name: 📲 电报信息
     type: select
     proxies:
@@ -167,22 +167,22 @@ proxy-groups:
       - 🚀 节点选择
       - 🎯 全球直连
       - سرویس رایگان نوا @irnova silver-garden-aaa9.pages.dev:443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.31.178:8443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.16.151.142:443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.26.9.115:2053 [VLESS]
-      - سرویس رایگان نوا @irnova 198.41.209.81:8443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.167.241:2087 [VLESS]
-      - سرویس رایگان نوا @irnova 198.41.209.30:2096 [VLESS]
-      - سرویس رایگان نوا @irnova 8.35.211.220:2053 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.181.163:2083 [VLESS]
-      - سرویس رایگان نوا @irnova 104.16.150.186:8443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.147.14:2087 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.223.227:443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.53.36:443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.19.33.69:2083 [VLESS]
-      - سرویس رایگان نوا @irnova 104.19.55.97:2083 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.103.124:2087 [VLESS]
-      - سرویس رایگان نوا @irnova 162.159.36.119:2096 [VLESS]
+      - سرویس رایگان نوا @irnova 104.26.11.233:2087 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.58.238:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.26.0.234:2053 [VLESS]
+      - سرویس رایگان نوا @irnova 188.164.248.23:2053 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.23.110:8443 [VLESS]
+      - سرویس رایگان نوا @irnova 172.67.64.104:2053 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.208.128:8443 [VLESS]
+      - سرویس رایگان نوا @irnova 162.159.37.179:2096 [VLESS]
+      - سرویس رایگان نوا @irnova 162.159.32.14:443 [VLESS]
+      - سرویس رایگان نوا @irnova 172.66.1.74:2087 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.171.85:2096 [VLESS]
+      - سرویس رایگان نوا @irnova 8.39.125.197:2083 [VLESS]
+      - سرویس رایگان نوا @irnova 8.35.211.184:2087 [VLESS]
+      - سرویس رایگان نوا @irnova 104.26.12.18:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.165.160:2083 [VLESS]
+      - سرویس رایگان نوا @irnova 104.19.52.144:443 [VLESS]
   - name: 🤖 OpenAi
     type: select
     proxies:
@@ -201,22 +201,22 @@ proxy-groups:
       - 🎯 全球直连
       - 🚀 节点选择
       - سرویس رایگان نوا @irnova silver-garden-aaa9.pages.dev:443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.31.178:8443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.16.151.142:443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.26.9.115:2053 [VLESS]
-      - سرویس رایگان نوا @irnova 198.41.209.81:8443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.167.241:2087 [VLESS]
-      - سرویس رایگان نوا @irnova 198.41.209.30:2096 [VLESS]
-      - سرویس رایگان نوا @irnova 8.35.211.220:2053 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.181.163:2083 [VLESS]
-      - سرویس رایگان نوا @irnova 104.16.150.186:8443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.147.14:2087 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.223.227:443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.53.36:443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.19.33.69:2083 [VLESS]
-      - سرویس رایگان نوا @irnova 104.19.55.97:2083 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.103.124:2087 [VLESS]
-      - سرویس رایگان نوا @irnova 162.159.36.119:2096 [VLESS]
+      - سرویس رایگان نوا @irnova 104.26.11.233:2087 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.58.238:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.26.0.234:2053 [VLESS]
+      - سرویس رایگان نوا @irnova 188.164.248.23:2053 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.23.110:8443 [VLESS]
+      - سرویس رایگان نوا @irnova 172.67.64.104:2053 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.208.128:8443 [VLESS]
+      - سرویس رایگان نوا @irnova 162.159.37.179:2096 [VLESS]
+      - سرویس رایگان نوا @irnova 162.159.32.14:443 [VLESS]
+      - سرویس رایگان نوا @irnova 172.66.1.74:2087 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.171.85:2096 [VLESS]
+      - سرویس رایگان نوا @irnova 8.39.125.197:2083 [VLESS]
+      - سرویس رایگان نوا @irnova 8.35.211.184:2087 [VLESS]
+      - سرویس رایگان نوا @irnova 104.26.12.18:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.165.160:2083 [VLESS]
+      - سرویس رایگان نوا @irnova 104.19.52.144:443 [VLESS]
   - name: 🍎 苹果服务
     type: select
     proxies:
@@ -225,22 +225,22 @@ proxy-groups:
       - 🚀 节点选择
       - 🎯 全球直连
       - سرویس رایگان نوا @irnova silver-garden-aaa9.pages.dev:443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.31.178:8443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.16.151.142:443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.26.9.115:2053 [VLESS]
-      - سرویس رایگان نوا @irnova 198.41.209.81:8443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.167.241:2087 [VLESS]
-      - سرویس رایگان نوا @irnova 198.41.209.30:2096 [VLESS]
-      - سرویس رایگان نوا @irnova 8.35.211.220:2053 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.181.163:2083 [VLESS]
-      - سرویس رایگان نوا @irnova 104.16.150.186:8443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.147.14:2087 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.223.227:443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.53.36:443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.19.33.69:2083 [VLESS]
-      - سرویس رایگان نوا @irnova 104.19.55.97:2083 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.103.124:2087 [VLESS]
-      - سرویس رایگان نوا @irnova 162.159.36.119:2096 [VLESS]
+      - سرویس رایگان نوا @irnova 104.26.11.233:2087 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.58.238:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.26.0.234:2053 [VLESS]
+      - سرویس رایگان نوا @irnova 188.164.248.23:2053 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.23.110:8443 [VLESS]
+      - سرویس رایگان نوا @irnova 172.67.64.104:2053 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.208.128:8443 [VLESS]
+      - سرویس رایگان نوا @irnova 162.159.37.179:2096 [VLESS]
+      - سرویس رایگان نوا @irnova 162.159.32.14:443 [VLESS]
+      - سرویس رایگان نوا @irnova 172.66.1.74:2087 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.171.85:2096 [VLESS]
+      - سرویس رایگان نوا @irnova 8.39.125.197:2083 [VLESS]
+      - سرویس رایگان نوا @irnova 8.35.211.184:2087 [VLESS]
+      - سرویس رایگان نوا @irnova 104.26.12.18:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.165.160:2083 [VLESS]
+      - سرویس رایگان نوا @irnova 104.19.52.144:443 [VLESS]
   - name: 📢 谷歌FCM
     type: select
     proxies:
@@ -250,22 +250,22 @@ proxy-groups:
       - 🎯 全球直连
       - ♻️ 自动选择
       - سرویس رایگان نوا @irnova silver-garden-aaa9.pages.dev:443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.31.178:8443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.16.151.142:443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.26.9.115:2053 [VLESS]
-      - سرویس رایگان نوا @irnova 198.41.209.81:8443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.167.241:2087 [VLESS]
-      - سرویس رایگان نوا @irnova 198.41.209.30:2096 [VLESS]
-      - سرویس رایگان نوا @irnova 8.35.211.220:2053 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.181.163:2083 [VLESS]
-      - سرویس رایگان نوا @irnova 104.16.150.186:8443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.147.14:2087 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.223.227:443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.53.36:443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.19.33.69:2083 [VLESS]
-      - سرویس رایگان نوا @irnova 104.19.55.97:2083 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.103.124:2087 [VLESS]
-      - سرویس رایگان نوا @irnova 162.159.36.119:2096 [VLESS]
+      - سرویس رایگان نوا @irnova 104.26.11.233:2087 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.58.238:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.26.0.234:2053 [VLESS]
+      - سرویس رایگان نوا @irnova 188.164.248.23:2053 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.23.110:8443 [VLESS]
+      - سرویس رایگان نوا @irnova 172.67.64.104:2053 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.208.128:8443 [VLESS]
+      - سرویس رایگان نوا @irnova 162.159.37.179:2096 [VLESS]
+      - سرویس رایگان نوا @irnova 162.159.32.14:443 [VLESS]
+      - سرویس رایگان نوا @irnova 172.66.1.74:2087 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.171.85:2096 [VLESS]
+      - سرویس رایگان نوا @irnova 8.39.125.197:2083 [VLESS]
+      - سرویس رایگان نوا @irnova 8.35.211.184:2087 [VLESS]
+      - سرویس رایگان نوا @irnova 104.26.12.18:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.165.160:2083 [VLESS]
+      - سرویس رایگان نوا @irnova 104.19.52.144:443 [VLESS]
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -297,22 +297,22 @@ proxy-groups:
       - 🎯 全球直连
       - ♻️ 自动选择
       - سرویس رایگان نوا @irnova silver-garden-aaa9.pages.dev:443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.31.178:8443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.16.151.142:443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.26.9.115:2053 [VLESS]
-      - سرویس رایگان نوا @irnova 198.41.209.81:8443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.167.241:2087 [VLESS]
-      - سرویس رایگان نوا @irnova 198.41.209.30:2096 [VLESS]
-      - سرویس رایگان نوا @irnova 8.35.211.220:2053 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.181.163:2083 [VLESS]
-      - سرویس رایگان نوا @irnova 104.16.150.186:8443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.147.14:2087 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.223.227:443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.53.36:443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.19.33.69:2083 [VLESS]
-      - سرویس رایگان نوا @irnova 104.19.55.97:2083 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.103.124:2087 [VLESS]
-      - سرویس رایگان نوا @irnova 162.159.36.119:2096 [VLESS]
+      - سرویس رایگان نوا @irnova 104.26.11.233:2087 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.58.238:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.26.0.234:2053 [VLESS]
+      - سرویس رایگان نوا @irnova 188.164.248.23:2053 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.23.110:8443 [VLESS]
+      - سرویس رایگان نوا @irnova 172.67.64.104:2053 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.208.128:8443 [VLESS]
+      - سرویس رایگان نوا @irnova 162.159.37.179:2096 [VLESS]
+      - سرویس رایگان نوا @irnova 162.159.32.14:443 [VLESS]
+      - سرویس رایگان نوا @irnova 172.66.1.74:2087 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.171.85:2096 [VLESS]
+      - سرویس رایگان نوا @irnova 8.39.125.197:2083 [VLESS]
+      - سرویس رایگان نوا @irnova 8.35.211.184:2087 [VLESS]
+      - سرویس رایگان نوا @irnova 104.26.12.18:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.165.160:2083 [VLESS]
+      - سرویس رایگان نوا @irnova 104.19.52.144:443 [VLESS]
   - name: 🇭🇰 香港节点
     type: url-test
     url: http://www.gstatic.com/generate_204
