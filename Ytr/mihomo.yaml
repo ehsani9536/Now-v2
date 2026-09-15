@@ -22,11 +22,6 @@ dns:
       - '+.google.com'
       - '+.facebook.com'
       - '+.youtube.com'
-  nameserver-policy:
-    "entra.damagostarantehran.ir": https://dns.alidns.com/dns-query
-    "silver-garden-aaa9.pages.dev": https://dns.alidns.com/dns-query
-    "rosy-poppy-b1c4.backups9536-038.workers.dev": https://dns.alidns.com/dns-query
-    "cloudflare-ech.com": https://dns.alidns.com/dns-query
 port: 7890
 socks-port: 7891
 allow-lan: true
@@ -34,8 +29,8 @@ mode: rule
 log-level: info
 external-controller: 127.0.0.1:9090
 proxies:
-  - {name: "📢 https://t.me/irnova", server: 192.0.2.1, port: 443, type: vmess, uuid: cc9a00e9-0af9-4ab4-be1a-92e09a0d9b0b, alterId: 0, cipher: auto, tls: true, servername: "entra.damagostarantehran.ir", network: ws, ws-opts: {path: "/?fake=1", headers: {Host: "entra.damagostarantehran.ir"}}, udp: false}
-  - {name: "📊 0.00GB / 9999GB (0%)  |  📅 2099-01-01", server: 192.0.2.1, port: 443, type: vmess, uuid: cc9a00e9-0af9-4ab4-be1a-92e09a0d9b0b, alterId: 0, cipher: auto, tls: true, servername: "entra.damagostarantehran.ir", network: ws, ws-opts: {path: "/?fake=1", headers: {Host: "entra.damagostarantehran.ir"}}, udp: false}
+  - {name: "📢 https://t.me/irnova", server: 192.0.2.1, port: 443, type: vmess, uuid: cc9a00e9-0af9-4ab4-be1a-92e09a0d9b0b, alterId: 0, cipher: auto, tls: true, servername: "silver-garden-aaa9.pages.dev", network: ws, ws-opts: {path: "/?fake=1", headers: {Host: "silver-garden-aaa9.pages.dev"}}, udp: false}
+  - {name: "📊 0.00GB / 9999GB (0%)  |  📅 2099-01-01", server: 192.0.2.1, port: 443, type: vmess, uuid: cc9a00e9-0af9-4ab4-be1a-92e09a0d9b0b, alterId: 0, cipher: auto, tls: true, servername: "silver-garden-aaa9.pages.dev", network: ws, ws-opts: {path: "/?fake=1", headers: {Host: "silver-garden-aaa9.pages.dev"}}, udp: false}
   - name: "Nova-WARP"
     type: wireguard
     server: engage.cloudflareclient.com
@@ -48,23 +43,23 @@ proxies:
     udp: true
     mtu: 1280
     amnezia-wg-option: {jc: 4, jmin: 40, jmax: 70}
-  - {name: "سرویس رایگان نوا @irnova entra.damagostarantehran.ir:443 [VLESS]", server: entra.damagostarantehran.ir, port: 443, type: vless, uuid: cc9a00e9-0af9-4ab4-be1a-92e09a0d9b0b, tls: true, skip-cert-verify: false, servername: entra.damagostarantehran.ir, client-fingerprint: unsafe, network: ws, ws-opts: {path: /drama/1ae0ad22a728/proxyip=, headers: {Host: entra.damagostarantehran.ir}}, ech-opts: {enable: true, query-server-name: cloudflare-ech.com}}
-  - {name: "سرویس رایگان نوا @irnova 162.159.47.116:2087 [VLESS]", server: 162.159.47.116, port: 2087, type: vless, uuid: cc9a00e9-0af9-4ab4-be1a-92e09a0d9b0b, tls: true, skip-cert-verify: false, servername: entra.damagostarantehran.ir, client-fingerprint: unsafe, network: ws, ws-opts: {path: /groups/channel/1ae0ad22a728/proxyip=, headers: {Host: entra.damagostarantehran.ir}}, ech-opts: {enable: true, query-server-name: cloudflare-ech.com}}
-  - {name: "سرویس رایگان نوا @irnova 162.159.38.96:443 [VLESS]", server: 162.159.38.96, port: 443, type: vless, uuid: cc9a00e9-0af9-4ab4-be1a-92e09a0d9b0b, tls: true, skip-cert-verify: false, servername: entra.damagostarantehran.ir, client-fingerprint: unsafe, network: ws, ws-opts: {path: /mobile/1ae0ad22a728/proxyip=, headers: {Host: entra.damagostarantehran.ir}}, ech-opts: {enable: true, query-server-name: cloudflare-ech.com}}
-  - {name: "سرویس رایگان نوا @irnova 162.159.37.250:2053 [VLESS]", server: 162.159.37.250, port: 2053, type: vless, uuid: cc9a00e9-0af9-4ab4-be1a-92e09a0d9b0b, tls: true, skip-cert-verify: false, servername: entra.damagostarantehran.ir, client-fingerprint: unsafe, network: ws, ws-opts: {path: /pic/tech/cart/1ae0ad22a728/proxyip=, headers: {Host: entra.damagostarantehran.ir}}, ech-opts: {enable: true, query-server-name: cloudflare-ech.com}}
-  - {name: "سرویس رایگان نوا @irnova 104.17.178.180:2053 [VLESS]", server: 104.17.178.180, port: 2053, type: vless, uuid: cc9a00e9-0af9-4ab4-be1a-92e09a0d9b0b, tls: true, skip-cert-verify: false, servername: entra.damagostarantehran.ir, client-fingerprint: unsafe, network: ws, ws-opts: {path: /home/torrent/my/1ae0ad22a728/proxyip=, headers: {Host: entra.damagostarantehran.ir}}, ech-opts: {enable: true, query-server-name: cloudflare-ech.com}}
-  - {name: "سرویس رایگان نوا @irnova 104.19.146.33:2053 [VLESS]", server: 104.19.146.33, port: 2053, type: vless, uuid: cc9a00e9-0af9-4ab4-be1a-92e09a0d9b0b, tls: true, skip-cert-verify: false, servername: entra.damagostarantehran.ir, client-fingerprint: unsafe, network: ws, ws-opts: {path: /friends/1ae0ad22a728/proxyip=, headers: {Host: entra.damagostarantehran.ir}}, ech-opts: {enable: true, query-server-name: cloudflare-ech.com}}
-  - {name: "سرویس رایگان نوا @irnova 162.159.46.89:2053 [VLESS]", server: 162.159.46.89, port: 2053, type: vless, uuid: cc9a00e9-0af9-4ab4-be1a-92e09a0d9b0b, tls: true, skip-cert-verify: false, servername: entra.damagostarantehran.ir, client-fingerprint: unsafe, network: ws, ws-opts: {path: /shows/books/1ae0ad22a728/proxyip=, headers: {Host: entra.damagostarantehran.ir}}, ech-opts: {enable: true, query-server-name: cloudflare-ech.com}}
-  - {name: "سرویس رایگان نوا @irnova 162.159.32.190:2096 [VLESS]", server: 162.159.32.190, port: 2096, type: vless, uuid: cc9a00e9-0af9-4ab4-be1a-92e09a0d9b0b, tls: true, skip-cert-verify: false, servername: entra.damagostarantehran.ir, client-fingerprint: unsafe, network: ws, ws-opts: {path: /manhua/1ae0ad22a728/proxyip=, headers: {Host: entra.damagostarantehran.ir}}, ech-opts: {enable: true, query-server-name: cloudflare-ech.com}}
-  - {name: "سرویس رایگان نوا @irnova 188.164.248.125:2087 [VLESS]", server: 188.164.248.125, port: 2087, type: vless, uuid: cc9a00e9-0af9-4ab4-be1a-92e09a0d9b0b, tls: true, skip-cert-verify: false, servername: entra.damagostarantehran.ir, client-fingerprint: unsafe, network: ws, ws-opts: {path: /item/study/tech/1ae0ad22a728/proxyip=, headers: {Host: entra.damagostarantehran.ir}}, ech-opts: {enable: true, query-server-name: cloudflare-ech.com}}
-  - {name: "سرویس رایگان نوا @irnova 104.17.121.70:8443 [VLESS]", server: 104.17.121.70, port: 8443, type: vless, uuid: cc9a00e9-0af9-4ab4-be1a-92e09a0d9b0b, tls: true, skip-cert-verify: false, servername: entra.damagostarantehran.ir, client-fingerprint: unsafe, network: ws, ws-opts: {path: /data/1ae0ad22a728/proxyip=, headers: {Host: entra.damagostarantehran.ir}}, ech-opts: {enable: true, query-server-name: cloudflare-ech.com}}
-  - {name: "سرویس رایگان نوا @irnova 104.16.155.24:2087 [VLESS]", server: 104.16.155.24, port: 2087, type: vless, uuid: cc9a00e9-0af9-4ab4-be1a-92e09a0d9b0b, tls: true, skip-cert-verify: false, servername: entra.damagostarantehran.ir, client-fingerprint: unsafe, network: ws, ws-opts: {path: /pay/1ae0ad22a728/proxyip=, headers: {Host: entra.damagostarantehran.ir}}, ech-opts: {enable: true, query-server-name: cloudflare-ech.com}}
-  - {name: "سرویس رایگان نوا @irnova 8.39.125.224:2053 [VLESS]", server: 8.39.125.224, port: 2053, type: vless, uuid: cc9a00e9-0af9-4ab4-be1a-92e09a0d9b0b, tls: true, skip-cert-verify: false, servername: entra.damagostarantehran.ir, client-fingerprint: unsafe, network: ws, ws-opts: {path: /game/1ae0ad22a728/proxyip=, headers: {Host: entra.damagostarantehran.ir}}, ech-opts: {enable: true, query-server-name: cloudflare-ech.com}}
-  - {name: "سرویس رایگان نوا @irnova 8.35.211.64:2053 [VLESS]", server: 8.35.211.64, port: 2053, type: vless, uuid: cc9a00e9-0af9-4ab4-be1a-92e09a0d9b0b, tls: true, skip-cert-verify: false, servername: entra.damagostarantehran.ir, client-fingerprint: unsafe, network: ws, ws-opts: {path: /novels/out.html/1ae0ad22a728/proxyip=, headers: {Host: entra.damagostarantehran.ir}}, ech-opts: {enable: true, query-server-name: cloudflare-ech.com}}
-  - {name: "سرویس رایگان نوا @irnova 162.159.38.216:443 [VLESS]", server: 162.159.38.216, port: 443, type: vless, uuid: cc9a00e9-0af9-4ab4-be1a-92e09a0d9b0b, tls: true, skip-cert-verify: false, servername: entra.damagostarantehran.ir, client-fingerprint: unsafe, network: ws, ws-opts: {path: /lib/albums/1ae0ad22a728/proxyip=, headers: {Host: entra.damagostarantehran.ir}}, ech-opts: {enable: true, query-server-name: cloudflare-ech.com}}
-  - {name: "سرویس رایگان نوا @irnova 198.41.208.236:2087 [VLESS]", server: 198.41.208.236, port: 2087, type: vless, uuid: cc9a00e9-0af9-4ab4-be1a-92e09a0d9b0b, tls: true, skip-cert-verify: false, servername: entra.damagostarantehran.ir, client-fingerprint: unsafe, network: ws, ws-opts: {path: /go.php/rank/1ae0ad22a728/proxyip=, headers: {Host: entra.damagostarantehran.ir}}, ech-opts: {enable: true, query-server-name: cloudflare-ech.com}}
-  - {name: "سرویس رایگان نوا @irnova 104.19.55.29:2053 [VLESS]", server: 104.19.55.29, port: 2053, type: vless, uuid: cc9a00e9-0af9-4ab4-be1a-92e09a0d9b0b, tls: true, skip-cert-verify: false, servername: entra.damagostarantehran.ir, client-fingerprint: unsafe, network: ws, ws-opts: {path: /gif/urls/u/1ae0ad22a728/proxyip=, headers: {Host: entra.damagostarantehran.ir}}, ech-opts: {enable: true, query-server-name: cloudflare-ech.com}}
-  - {name: "سرویس رایگان نوا @irnova 104.17.120.50:443 [VLESS]", server: 104.17.120.50, port: 443, type: vless, uuid: cc9a00e9-0af9-4ab4-be1a-92e09a0d9b0b, tls: true, skip-cert-verify: false, servername: entra.damagostarantehran.ir, client-fingerprint: unsafe, network: ws, ws-opts: {path: /stars/films/1ae0ad22a728/proxyip=, headers: {Host: entra.damagostarantehran.ir}}, ech-opts: {enable: true, query-server-name: cloudflare-ech.com}}
+  - {name: "سرویس رایگان نوا @irnova silver-garden-aaa9.pages.dev:443 [VLESS]", server: silver-garden-aaa9.pages.dev, port: 443, type: vless, uuid: cc9a00e9-0af9-4ab4-be1a-92e09a0d9b0b, tls: true, skip-cert-verify: false, servername: silver-garden-aaa9.pages.dev, client-fingerprint: unsafe, network: ws, ws-opts: {path: /1ae0ad22a728/proxyip=, headers: {Host: silver-garden-aaa9.pages.dev}}}
+  - {name: "سرویس رایگان نوا @irnova 104.17.31.178:8443 [VLESS]", server: 104.17.31.178, port: 8443, type: vless, uuid: cc9a00e9-0af9-4ab4-be1a-92e09a0d9b0b, tls: true, skip-cert-verify: false, servername: silver-garden-aaa9.pages.dev, client-fingerprint: unsafe, network: ws, ws-opts: {path: /1ae0ad22a728/proxyip=, headers: {Host: silver-garden-aaa9.pages.dev}}}
+  - {name: "سرویس رایگان نوا @irnova 104.16.151.142:443 [VLESS]", server: 104.16.151.142, port: 443, type: vless, uuid: cc9a00e9-0af9-4ab4-be1a-92e09a0d9b0b, tls: true, skip-cert-verify: false, servername: silver-garden-aaa9.pages.dev, client-fingerprint: unsafe, network: ws, ws-opts: {path: /1ae0ad22a728/proxyip=, headers: {Host: silver-garden-aaa9.pages.dev}}}
+  - {name: "سرویس رایگان نوا @irnova 104.26.9.115:2053 [VLESS]", server: 104.26.9.115, port: 2053, type: vless, uuid: cc9a00e9-0af9-4ab4-be1a-92e09a0d9b0b, tls: true, skip-cert-verify: false, servername: silver-garden-aaa9.pages.dev, client-fingerprint: unsafe, network: ws, ws-opts: {path: /1ae0ad22a728/proxyip=, headers: {Host: silver-garden-aaa9.pages.dev}}}
+  - {name: "سرویس رایگان نوا @irnova 198.41.209.81:8443 [VLESS]", server: 198.41.209.81, port: 8443, type: vless, uuid: cc9a00e9-0af9-4ab4-be1a-92e09a0d9b0b, tls: true, skip-cert-verify: false, servername: silver-garden-aaa9.pages.dev, client-fingerprint: unsafe, network: ws, ws-opts: {path: /1ae0ad22a728/proxyip=, headers: {Host: silver-garden-aaa9.pages.dev}}}
+  - {name: "سرویس رایگان نوا @irnova 104.17.167.241:2087 [VLESS]", server: 104.17.167.241, port: 2087, type: vless, uuid: cc9a00e9-0af9-4ab4-be1a-92e09a0d9b0b, tls: true, skip-cert-verify: false, servername: silver-garden-aaa9.pages.dev, client-fingerprint: unsafe, network: ws, ws-opts: {path: /1ae0ad22a728/proxyip=, headers: {Host: silver-garden-aaa9.pages.dev}}}
+  - {name: "سرویس رایگان نوا @irnova 198.41.209.30:2096 [VLESS]", server: 198.41.209.30, port: 2096, type: vless, uuid: cc9a00e9-0af9-4ab4-be1a-92e09a0d9b0b, tls: true, skip-cert-verify: false, servername: silver-garden-aaa9.pages.dev, client-fingerprint: unsafe, network: ws, ws-opts: {path: /1ae0ad22a728/proxyip=, headers: {Host: silver-garden-aaa9.pages.dev}}}
+  - {name: "سرویس رایگان نوا @irnova 8.35.211.220:2053 [VLESS]", server: 8.35.211.220, port: 2053, type: vless, uuid: cc9a00e9-0af9-4ab4-be1a-92e09a0d9b0b, tls: true, skip-cert-verify: false, servername: silver-garden-aaa9.pages.dev, client-fingerprint: unsafe, network: ws, ws-opts: {path: /1ae0ad22a728/proxyip=, headers: {Host: silver-garden-aaa9.pages.dev}}}
+  - {name: "سرویس رایگان نوا @irnova 104.17.181.163:2083 [VLESS]", server: 104.17.181.163, port: 2083, type: vless, uuid: cc9a00e9-0af9-4ab4-be1a-92e09a0d9b0b, tls: true, skip-cert-verify: false, servername: silver-garden-aaa9.pages.dev, client-fingerprint: unsafe, network: ws, ws-opts: {path: /1ae0ad22a728/proxyip=, headers: {Host: silver-garden-aaa9.pages.dev}}}
+  - {name: "سرویس رایگان نوا @irnova 104.16.150.186:8443 [VLESS]", server: 104.16.150.186, port: 8443, type: vless, uuid: cc9a00e9-0af9-4ab4-be1a-92e09a0d9b0b, tls: true, skip-cert-verify: false, servername: silver-garden-aaa9.pages.dev, client-fingerprint: unsafe, network: ws, ws-opts: {path: /1ae0ad22a728/proxyip=, headers: {Host: silver-garden-aaa9.pages.dev}}}
+  - {name: "سرویس رایگان نوا @irnova 104.17.147.14:2087 [VLESS]", server: 104.17.147.14, port: 2087, type: vless, uuid: cc9a00e9-0af9-4ab4-be1a-92e09a0d9b0b, tls: true, skip-cert-verify: false, servername: silver-garden-aaa9.pages.dev, client-fingerprint: unsafe, network: ws, ws-opts: {path: /1ae0ad22a728/proxyip=, headers: {Host: silver-garden-aaa9.pages.dev}}}
+  - {name: "سرویس رایگان نوا @irnova 104.17.223.227:443 [VLESS]", server: 104.17.223.227, port: 443, type: vless, uuid: cc9a00e9-0af9-4ab4-be1a-92e09a0d9b0b, tls: true, skip-cert-verify: false, servername: silver-garden-aaa9.pages.dev, client-fingerprint: unsafe, network: ws, ws-opts: {path: /1ae0ad22a728/proxyip=, headers: {Host: silver-garden-aaa9.pages.dev}}}
+  - {name: "سرویس رایگان نوا @irnova 104.17.53.36:443 [VLESS]", server: 104.17.53.36, port: 443, type: vless, uuid: cc9a00e9-0af9-4ab4-be1a-92e09a0d9b0b, tls: true, skip-cert-verify: false, servername: silver-garden-aaa9.pages.dev, client-fingerprint: unsafe, network: ws, ws-opts: {path: /1ae0ad22a728/proxyip=, headers: {Host: silver-garden-aaa9.pages.dev}}}
+  - {name: "سرویس رایگان نوا @irnova 104.19.33.69:2083 [VLESS]", server: 104.19.33.69, port: 2083, type: vless, uuid: cc9a00e9-0af9-4ab4-be1a-92e09a0d9b0b, tls: true, skip-cert-verify: false, servername: silver-garden-aaa9.pages.dev, client-fingerprint: unsafe, network: ws, ws-opts: {path: /1ae0ad22a728/proxyip=, headers: {Host: silver-garden-aaa9.pages.dev}}}
+  - {name: "سرویس رایگان نوا @irnova 104.19.55.97:2083 [VLESS]", server: 104.19.55.97, port: 2083, type: vless, uuid: cc9a00e9-0af9-4ab4-be1a-92e09a0d9b0b, tls: true, skip-cert-verify: false, servername: silver-garden-aaa9.pages.dev, client-fingerprint: unsafe, network: ws, ws-opts: {path: /1ae0ad22a728/proxyip=, headers: {Host: silver-garden-aaa9.pages.dev}}}
+  - {name: "سرویس رایگان نوا @irnova 104.17.103.124:2087 [VLESS]", server: 104.17.103.124, port: 2087, type: vless, uuid: cc9a00e9-0af9-4ab4-be1a-92e09a0d9b0b, tls: true, skip-cert-verify: false, servername: silver-garden-aaa9.pages.dev, client-fingerprint: unsafe, network: ws, ws-opts: {path: /1ae0ad22a728/proxyip=, headers: {Host: silver-garden-aaa9.pages.dev}}}
+  - {name: "سرویس رایگان نوا @irnova 162.159.36.119:2096 [VLESS]", server: 162.159.36.119, port: 2096, type: vless, uuid: cc9a00e9-0af9-4ab4-be1a-92e09a0d9b0b, tls: true, skip-cert-verify: false, servername: silver-garden-aaa9.pages.dev, client-fingerprint: unsafe, network: ws, ws-opts: {path: /1ae0ad22a728/proxyip=, headers: {Host: silver-garden-aaa9.pages.dev}}}
 proxy-groups:
   - name: 🚀 节点选择
     type: select
@@ -81,46 +76,46 @@ proxy-groups:
     proxies:
       - "📢 https://t.me/irnova"
       - "📊 0.00GB / 9999GB (0%)  |  📅 2099-01-01"
-      - سرویس رایگان نوا @irnova entra.damagostarantehran.ir:443 [VLESS]
-      - سرویس رایگان نوا @irnova 162.159.47.116:2087 [VLESS]
-      - سرویس رایگان نوا @irnova 162.159.38.96:443 [VLESS]
-      - سرویس رایگان نوا @irnova 162.159.37.250:2053 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.178.180:2053 [VLESS]
-      - سرویس رایگان نوا @irnova 104.19.146.33:2053 [VLESS]
-      - سرویس رایگان نوا @irnova 162.159.46.89:2053 [VLESS]
-      - سرویس رایگان نوا @irnova 162.159.32.190:2096 [VLESS]
-      - سرویس رایگان نوا @irnova 188.164.248.125:2087 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.121.70:8443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.16.155.24:2087 [VLESS]
-      - سرویس رایگان نوا @irnova 8.39.125.224:2053 [VLESS]
-      - سرویس رایگان نوا @irnova 8.35.211.64:2053 [VLESS]
-      - سرویس رایگان نوا @irnova 162.159.38.216:443 [VLESS]
-      - سرویس رایگان نوا @irnova 198.41.208.236:2087 [VLESS]
-      - سرویس رایگان نوا @irnova 104.19.55.29:2053 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.120.50:443 [VLESS]
+      - سرویس رایگان نوا @irnova silver-garden-aaa9.pages.dev:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.31.178:8443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.16.151.142:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.26.9.115:2053 [VLESS]
+      - سرویس رایگان نوا @irnova 198.41.209.81:8443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.167.241:2087 [VLESS]
+      - سرویس رایگان نوا @irnova 198.41.209.30:2096 [VLESS]
+      - سرویس رایگان نوا @irnova 8.35.211.220:2053 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.181.163:2083 [VLESS]
+      - سرویس رایگان نوا @irnova 104.16.150.186:8443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.147.14:2087 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.223.227:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.53.36:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.19.33.69:2083 [VLESS]
+      - سرویس رایگان نوا @irnova 104.19.55.97:2083 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.103.124:2087 [VLESS]
+      - سرویس رایگان نوا @irnova 162.159.36.119:2096 [VLESS]
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
     interval: 300
     tolerance: 50
     proxies:
-      - سرویس رایگان نوا @irnova entra.damagostarantehran.ir:443 [VLESS]
-      - سرویس رایگان نوا @irnova 162.159.47.116:2087 [VLESS]
-      - سرویس رایگان نوا @irnova 162.159.38.96:443 [VLESS]
-      - سرویس رایگان نوا @irnova 162.159.37.250:2053 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.178.180:2053 [VLESS]
-      - سرویس رایگان نوا @irnova 104.19.146.33:2053 [VLESS]
-      - سرویس رایگان نوا @irnova 162.159.46.89:2053 [VLESS]
-      - سرویس رایگان نوا @irnova 162.159.32.190:2096 [VLESS]
-      - سرویس رایگان نوا @irnova 188.164.248.125:2087 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.121.70:8443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.16.155.24:2087 [VLESS]
-      - سرویس رایگان نوا @irnova 8.39.125.224:2053 [VLESS]
-      - سرویس رایگان نوا @irnova 8.35.211.64:2053 [VLESS]
-      - سرویس رایگان نوا @irnova 162.159.38.216:443 [VLESS]
-      - سرویس رایگان نوا @irnova 198.41.208.236:2087 [VLESS]
-      - سرویس رایگان نوا @irnova 104.19.55.29:2053 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.120.50:443 [VLESS]
+      - سرویس رایگان نوا @irnova silver-garden-aaa9.pages.dev:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.31.178:8443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.16.151.142:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.26.9.115:2053 [VLESS]
+      - سرویس رایگان نوا @irnova 198.41.209.81:8443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.167.241:2087 [VLESS]
+      - سرویس رایگان نوا @irnova 198.41.209.30:2096 [VLESS]
+      - سرویس رایگان نوا @irnova 8.35.211.220:2053 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.181.163:2083 [VLESS]
+      - سرویس رایگان نوا @irnova 104.16.150.186:8443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.147.14:2087 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.223.227:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.53.36:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.19.33.69:2083 [VLESS]
+      - سرویس رایگان نوا @irnova 104.19.55.97:2083 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.103.124:2087 [VLESS]
+      - سرویس رایگان نوا @irnova 162.159.36.119:2096 [VLESS]
   - name: 📹 油管视频
     type: select
     proxies:
@@ -147,23 +142,23 @@ proxy-groups:
       - 🚀 节点选择
       - ♻️ 自动选择
       - 🎯 全球直连
-      - سرویس رایگان نوا @irnova entra.damagostarantehran.ir:443 [VLESS]
-      - سرویس رایگان نوا @irnova 162.159.47.116:2087 [VLESS]
-      - سرویس رایگان نوا @irnova 162.159.38.96:443 [VLESS]
-      - سرویس رایگان نوا @irnova 162.159.37.250:2053 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.178.180:2053 [VLESS]
-      - سرویس رایگان نوا @irnova 104.19.146.33:2053 [VLESS]
-      - سرویس رایگان نوا @irnova 162.159.46.89:2053 [VLESS]
-      - سرویس رایگان نوا @irnova 162.159.32.190:2096 [VLESS]
-      - سرویس رایگان نوا @irnova 188.164.248.125:2087 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.121.70:8443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.16.155.24:2087 [VLESS]
-      - سرویس رایگان نوا @irnova 8.39.125.224:2053 [VLESS]
-      - سرویس رایگان نوا @irnova 8.35.211.64:2053 [VLESS]
-      - سرویس رایگان نوا @irnova 162.159.38.216:443 [VLESS]
-      - سرویس رایگان نوا @irnova 198.41.208.236:2087 [VLESS]
-      - سرویس رایگان نوا @irnova 104.19.55.29:2053 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.120.50:443 [VLESS]
+      - سرویس رایگان نوا @irnova silver-garden-aaa9.pages.dev:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.31.178:8443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.16.151.142:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.26.9.115:2053 [VLESS]
+      - سرویس رایگان نوا @irnova 198.41.209.81:8443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.167.241:2087 [VLESS]
+      - سرویس رایگان نوا @irnova 198.41.209.30:2096 [VLESS]
+      - سرویس رایگان نوا @irnova 8.35.211.220:2053 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.181.163:2083 [VLESS]
+      - سرویس رایگان نوا @irnova 104.16.150.186:8443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.147.14:2087 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.223.227:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.53.36:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.19.33.69:2083 [VLESS]
+      - سرویس رایگان نوا @irnova 104.19.55.97:2083 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.103.124:2087 [VLESS]
+      - سرویس رایگان نوا @irnova 162.159.36.119:2096 [VLESS]
   - name: 📲 电报信息
     type: select
     proxies:
@@ -171,23 +166,23 @@ proxy-groups:
       - "📊 0.00GB / 9999GB (0%)  |  📅 2099-01-01"
       - 🚀 节点选择
       - 🎯 全球直连
-      - سرویس رایگان نوا @irnova entra.damagostarantehran.ir:443 [VLESS]
-      - سرویس رایگان نوا @irnova 162.159.47.116:2087 [VLESS]
-      - سرویس رایگان نوا @irnova 162.159.38.96:443 [VLESS]
-      - سرویس رایگان نوا @irnova 162.159.37.250:2053 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.178.180:2053 [VLESS]
-      - سرویس رایگان نوا @irnova 104.19.146.33:2053 [VLESS]
-      - سرویس رایگان نوا @irnova 162.159.46.89:2053 [VLESS]
-      - سرویس رایگان نوا @irnova 162.159.32.190:2096 [VLESS]
-      - سرویس رایگان نوا @irnova 188.164.248.125:2087 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.121.70:8443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.16.155.24:2087 [VLESS]
-      - سرویس رایگان نوا @irnova 8.39.125.224:2053 [VLESS]
-      - سرویس رایگان نوا @irnova 8.35.211.64:2053 [VLESS]
-      - سرویس رایگان نوا @irnova 162.159.38.216:443 [VLESS]
-      - سرویس رایگان نوا @irnova 198.41.208.236:2087 [VLESS]
-      - سرویس رایگان نوا @irnova 104.19.55.29:2053 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.120.50:443 [VLESS]
+      - سرویس رایگان نوا @irnova silver-garden-aaa9.pages.dev:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.31.178:8443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.16.151.142:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.26.9.115:2053 [VLESS]
+      - سرویس رایگان نوا @irnova 198.41.209.81:8443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.167.241:2087 [VLESS]
+      - سرویس رایگان نوا @irnova 198.41.209.30:2096 [VLESS]
+      - سرویس رایگان نوا @irnova 8.35.211.220:2053 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.181.163:2083 [VLESS]
+      - سرویس رایگان نوا @irnova 104.16.150.186:8443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.147.14:2087 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.223.227:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.53.36:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.19.33.69:2083 [VLESS]
+      - سرویس رایگان نوا @irnova 104.19.55.97:2083 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.103.124:2087 [VLESS]
+      - سرویس رایگان نوا @irnova 162.159.36.119:2096 [VLESS]
   - name: 🤖 OpenAi
     type: select
     proxies:
@@ -205,23 +200,23 @@ proxy-groups:
       - "📊 0.00GB / 9999GB (0%)  |  📅 2099-01-01"
       - 🎯 全球直连
       - 🚀 节点选择
-      - سرویس رایگان نوا @irnova entra.damagostarantehran.ir:443 [VLESS]
-      - سرویس رایگان نوا @irnova 162.159.47.116:2087 [VLESS]
-      - سرویس رایگان نوا @irnova 162.159.38.96:443 [VLESS]
-      - سرویس رایگان نوا @irnova 162.159.37.250:2053 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.178.180:2053 [VLESS]
-      - سرویس رایگان نوا @irnova 104.19.146.33:2053 [VLESS]
-      - سرویس رایگان نوا @irnova 162.159.46.89:2053 [VLESS]
-      - سرویس رایگان نوا @irnova 162.159.32.190:2096 [VLESS]
-      - سرویس رایگان نوا @irnova 188.164.248.125:2087 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.121.70:8443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.16.155.24:2087 [VLESS]
-      - سرویس رایگان نوا @irnova 8.39.125.224:2053 [VLESS]
-      - سرویس رایگان نوا @irnova 8.35.211.64:2053 [VLESS]
-      - سرویس رایگان نوا @irnova 162.159.38.216:443 [VLESS]
-      - سرویس رایگان نوا @irnova 198.41.208.236:2087 [VLESS]
-      - سرویس رایگان نوا @irnova 104.19.55.29:2053 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.120.50:443 [VLESS]
+      - سرویس رایگان نوا @irnova silver-garden-aaa9.pages.dev:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.31.178:8443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.16.151.142:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.26.9.115:2053 [VLESS]
+      - سرویس رایگان نوا @irnova 198.41.209.81:8443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.167.241:2087 [VLESS]
+      - سرویس رایگان نوا @irnova 198.41.209.30:2096 [VLESS]
+      - سرویس رایگان نوا @irnova 8.35.211.220:2053 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.181.163:2083 [VLESS]
+      - سرویس رایگان نوا @irnova 104.16.150.186:8443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.147.14:2087 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.223.227:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.53.36:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.19.33.69:2083 [VLESS]
+      - سرویس رایگان نوا @irnova 104.19.55.97:2083 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.103.124:2087 [VLESS]
+      - سرویس رایگان نوا @irnova 162.159.36.119:2096 [VLESS]
   - name: 🍎 苹果服务
     type: select
     proxies:
@@ -229,23 +224,23 @@ proxy-groups:
       - "📊 0.00GB / 9999GB (0%)  |  📅 2099-01-01"
       - 🚀 节点选择
       - 🎯 全球直连
-      - سرویس رایگان نوا @irnova entra.damagostarantehran.ir:443 [VLESS]
-      - سرویس رایگان نوا @irnova 162.159.47.116:2087 [VLESS]
-      - سرویس رایگان نوا @irnova 162.159.38.96:443 [VLESS]
-      - سرویس رایگان نوا @irnova 162.159.37.250:2053 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.178.180:2053 [VLESS]
-      - سرویس رایگان نوا @irnova 104.19.146.33:2053 [VLESS]
-      - سرویس رایگان نوا @irnova 162.159.46.89:2053 [VLESS]
-      - سرویس رایگان نوا @irnova 162.159.32.190:2096 [VLESS]
-      - سرویس رایگان نوا @irnova 188.164.248.125:2087 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.121.70:8443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.16.155.24:2087 [VLESS]
-      - سرویس رایگان نوا @irnova 8.39.125.224:2053 [VLESS]
-      - سرویس رایگان نوا @irnova 8.35.211.64:2053 [VLESS]
-      - سرویس رایگان نوا @irnova 162.159.38.216:443 [VLESS]
-      - سرویس رایگان نوا @irnova 198.41.208.236:2087 [VLESS]
-      - سرویس رایگان نوا @irnova 104.19.55.29:2053 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.120.50:443 [VLESS]
+      - سرویس رایگان نوا @irnova silver-garden-aaa9.pages.dev:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.31.178:8443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.16.151.142:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.26.9.115:2053 [VLESS]
+      - سرویس رایگان نوا @irnova 198.41.209.81:8443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.167.241:2087 [VLESS]
+      - سرویس رایگان نوا @irnova 198.41.209.30:2096 [VLESS]
+      - سرویس رایگان نوا @irnova 8.35.211.220:2053 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.181.163:2083 [VLESS]
+      - سرویس رایگان نوا @irnova 104.16.150.186:8443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.147.14:2087 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.223.227:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.53.36:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.19.33.69:2083 [VLESS]
+      - سرویس رایگان نوا @irnova 104.19.55.97:2083 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.103.124:2087 [VLESS]
+      - سرویس رایگان نوا @irnova 162.159.36.119:2096 [VLESS]
   - name: 📢 谷歌FCM
     type: select
     proxies:
@@ -254,23 +249,23 @@ proxy-groups:
       - 🚀 节点选择
       - 🎯 全球直连
       - ♻️ 自动选择
-      - سرویس رایگان نوا @irnova entra.damagostarantehran.ir:443 [VLESS]
-      - سرویس رایگان نوا @irnova 162.159.47.116:2087 [VLESS]
-      - سرویس رایگان نوا @irnova 162.159.38.96:443 [VLESS]
-      - سرویس رایگان نوا @irnova 162.159.37.250:2053 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.178.180:2053 [VLESS]
-      - سرویس رایگان نوا @irnova 104.19.146.33:2053 [VLESS]
-      - سرویس رایگان نوا @irnova 162.159.46.89:2053 [VLESS]
-      - سرویس رایگان نوا @irnova 162.159.32.190:2096 [VLESS]
-      - سرویس رایگان نوا @irnova 188.164.248.125:2087 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.121.70:8443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.16.155.24:2087 [VLESS]
-      - سرویس رایگان نوا @irnova 8.39.125.224:2053 [VLESS]
-      - سرویس رایگان نوا @irnova 8.35.211.64:2053 [VLESS]
-      - سرویس رایگان نوا @irnova 162.159.38.216:443 [VLESS]
-      - سرویس رایگان نوا @irnova 198.41.208.236:2087 [VLESS]
-      - سرویس رایگان نوا @irnova 104.19.55.29:2053 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.120.50:443 [VLESS]
+      - سرویس رایگان نوا @irnova silver-garden-aaa9.pages.dev:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.31.178:8443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.16.151.142:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.26.9.115:2053 [VLESS]
+      - سرویس رایگان نوا @irnova 198.41.209.81:8443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.167.241:2087 [VLESS]
+      - سرویس رایگان نوا @irnova 198.41.209.30:2096 [VLESS]
+      - سرویس رایگان نوا @irnova 8.35.211.220:2053 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.181.163:2083 [VLESS]
+      - سرویس رایگان نوا @irnova 104.16.150.186:8443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.147.14:2087 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.223.227:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.53.36:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.19.33.69:2083 [VLESS]
+      - سرویس رایگان نوا @irnova 104.19.55.97:2083 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.103.124:2087 [VLESS]
+      - سرویس رایگان نوا @irnova 162.159.36.119:2096 [VLESS]
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -301,23 +296,23 @@ proxy-groups:
       - 🚀 节点选择
       - 🎯 全球直连
       - ♻️ 自动选择
-      - سرویس رایگان نوا @irnova entra.damagostarantehran.ir:443 [VLESS]
-      - سرویس رایگان نوا @irnova 162.159.47.116:2087 [VLESS]
-      - سرویس رایگان نوا @irnova 162.159.38.96:443 [VLESS]
-      - سرویس رایگان نوا @irnova 162.159.37.250:2053 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.178.180:2053 [VLESS]
-      - سرویس رایگان نوا @irnova 104.19.146.33:2053 [VLESS]
-      - سرویس رایگان نوا @irnova 162.159.46.89:2053 [VLESS]
-      - سرویس رایگان نوا @irnova 162.159.32.190:2096 [VLESS]
-      - سرویس رایگان نوا @irnova 188.164.248.125:2087 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.121.70:8443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.16.155.24:2087 [VLESS]
-      - سرویس رایگان نوا @irnova 8.39.125.224:2053 [VLESS]
-      - سرویس رایگان نوا @irnova 8.35.211.64:2053 [VLESS]
-      - سرویس رایگان نوا @irnova 162.159.38.216:443 [VLESS]
-      - سرویس رایگان نوا @irnova 198.41.208.236:2087 [VLESS]
-      - سرویس رایگان نوا @irnova 104.19.55.29:2053 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.120.50:443 [VLESS]
+      - سرویس رایگان نوا @irnova silver-garden-aaa9.pages.dev:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.31.178:8443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.16.151.142:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.26.9.115:2053 [VLESS]
+      - سرویس رایگان نوا @irnova 198.41.209.81:8443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.167.241:2087 [VLESS]
+      - سرویس رایگان نوا @irnova 198.41.209.30:2096 [VLESS]
+      - سرویس رایگان نوا @irnova 8.35.211.220:2053 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.181.163:2083 [VLESS]
+      - سرویس رایگان نوا @irnova 104.16.150.186:8443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.147.14:2087 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.223.227:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.53.36:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.19.33.69:2083 [VLESS]
+      - سرویس رایگان نوا @irnova 104.19.55.97:2083 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.103.124:2087 [VLESS]
+      - سرویس رایگان نوا @irnova 162.159.36.119:2096 [VLESS]
   - name: 🇭🇰 香港节点
     type: url-test
     url: http://www.gstatic.com/generate_204
