@@ -82,254 +82,392 @@
     },
     {
       "type": "vless",
-      "tag": "سرویس رایگان نوا @irnova entra.damagostarantehran.ir:443 [VLESS]",
-      "server": "entra.damagostarantehran.ir",
+      "tag": "🇨🇳 سرویس رایگان نوا @irnova coral-brook-f19c.backups9536-038.workers.dev:443 [VLESS]",
+      "server": "coral-brook-f19c.backups9536-038.workers.dev",
       "server_port": 443,
-      "uuid": "cc9a00e9-0af9-4ab4-be1a-92e09a0d9b0b",
+      "uuid": "51871da5-2b3a-4427-ae92-93d7e2e93c77",
       "transport": {
-        "path": "/1ae0ad22a728/proxyip=95.164.123.31?ed=2560",
+        "path": "/2dc7014bc2d3",
         "type": "ws",
         "headers": {
-          "Host": "entra.damagostarantehran.ir"
+          "Host": "coral-brook-f19c.backups9536-038.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "entra.damagostarantehran.ir",
+        "server_name": "coral-brook-f19c.backups9536-038.workers.dev",
         "insecure": false,
         "utls": {
           "enabled": true,
-          "fingerprint": "android"
+          "fingerprint": "chrome"
         }
       }
     },
     {
       "type": "vless",
-      "tag": "سرویس رایگان نوا @irnova 104.16.72.76:443 [VLESS]",
-      "server": "104.16.72.76",
-      "server_port": 443,
-      "uuid": "cc9a00e9-0af9-4ab4-be1a-92e09a0d9b0b",
+      "tag": "سرویس رایگان نوا @irnova 198.41.209.30:2053 [VLESS]",
+      "server": "198.41.209.30",
+      "server_port": 2053,
+      "uuid": "51871da5-2b3a-4427-ae92-93d7e2e93c77",
       "transport": {
-        "path": "/1ae0ad22a728/proxyip=95.164.123.31?ed=2560",
+        "path": "/2dc7014bc2d3",
         "type": "ws",
         "headers": {
-          "Host": "entra.damagostarantehran.ir"
+          "Host": "coral-brook-f19c.backups9536-038.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "entra.damagostarantehran.ir",
+        "server_name": "coral-brook-f19c.backups9536-038.workers.dev",
         "insecure": false,
         "utls": {
           "enabled": true,
-          "fingerprint": "android"
+          "fingerprint": "chrome"
         }
       }
     },
     {
       "type": "vless",
-      "tag": "سرویس رایگان نوا @irnova 104.16.211.170:443 [VLESS]",
-      "server": "104.16.211.170",
-      "server_port": 443,
-      "uuid": "cc9a00e9-0af9-4ab4-be1a-92e09a0d9b0b",
+      "tag": "سرویس رایگان نوا @irnova 108.162.198.23:2053 [VLESS]",
+      "server": "108.162.198.23",
+      "server_port": 2053,
+      "uuid": "51871da5-2b3a-4427-ae92-93d7e2e93c77",
       "transport": {
-        "path": "/1ae0ad22a728/proxyip=95.164.123.31?ed=2560",
+        "path": "/2dc7014bc2d3",
         "type": "ws",
         "headers": {
-          "Host": "entra.damagostarantehran.ir"
+          "Host": "coral-brook-f19c.backups9536-038.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "entra.damagostarantehran.ir",
+        "server_name": "coral-brook-f19c.backups9536-038.workers.dev",
         "insecure": false,
         "utls": {
           "enabled": true,
-          "fingerprint": "android"
+          "fingerprint": "chrome"
         }
       }
     },
     {
       "type": "vless",
-      "tag": "سرویس رایگان نوا @irnova 104.16.2.94:443 [VLESS]",
-      "server": "104.16.2.94",
-      "server_port": 443,
-      "uuid": "cc9a00e9-0af9-4ab4-be1a-92e09a0d9b0b",
+      "tag": "سرویس رایگان نوا @irnova 104.19.32.95:8443 [VLESS]",
+      "server": "104.19.32.95",
+      "server_port": 8443,
+      "uuid": "51871da5-2b3a-4427-ae92-93d7e2e93c77",
       "transport": {
-        "path": "/1ae0ad22a728/proxyip=95.164.123.31?ed=2560",
+        "path": "/2dc7014bc2d3",
         "type": "ws",
         "headers": {
-          "Host": "entra.damagostarantehran.ir"
+          "Host": "coral-brook-f19c.backups9536-038.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "entra.damagostarantehran.ir",
+        "server_name": "coral-brook-f19c.backups9536-038.workers.dev",
         "insecure": false,
         "utls": {
           "enabled": true,
-          "fingerprint": "android"
+          "fingerprint": "chrome"
         }
       }
     },
     {
       "type": "vless",
-      "tag": "سرویس رایگان نوا @irnova 172.67.139.236:443 [VLESS]",
-      "server": "172.67.139.236",
-      "server_port": 443,
-      "uuid": "cc9a00e9-0af9-4ab4-be1a-92e09a0d9b0b",
+      "tag": "سرویس رایگان نوا @irnova 104.16.246.211:2053 [VLESS]",
+      "server": "104.16.246.211",
+      "server_port": 2053,
+      "uuid": "51871da5-2b3a-4427-ae92-93d7e2e93c77",
       "transport": {
-        "path": "/1ae0ad22a728/proxyip=95.164.123.31?ed=2560",
+        "path": "/2dc7014bc2d3",
         "type": "ws",
         "headers": {
-          "Host": "entra.damagostarantehran.ir"
+          "Host": "coral-brook-f19c.backups9536-038.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "entra.damagostarantehran.ir",
+        "server_name": "coral-brook-f19c.backups9536-038.workers.dev",
         "insecure": false,
         "utls": {
           "enabled": true,
-          "fingerprint": "android"
+          "fingerprint": "chrome"
         }
       }
     },
     {
       "type": "vless",
-      "tag": "سرویس رایگان نوا @irnova 104.18.74.255:443 [VLESS]",
-      "server": "104.18.74.255",
-      "server_port": 443,
-      "uuid": "cc9a00e9-0af9-4ab4-be1a-92e09a0d9b0b",
+      "tag": "سرویس رایگان نوا @irnova 104.18.33.27:2053 [VLESS]",
+      "server": "104.18.33.27",
+      "server_port": 2053,
+      "uuid": "51871da5-2b3a-4427-ae92-93d7e2e93c77",
       "transport": {
-        "path": "/1ae0ad22a728/proxyip=95.164.123.31?ed=2560",
+        "path": "/2dc7014bc2d3",
         "type": "ws",
         "headers": {
-          "Host": "entra.damagostarantehran.ir"
+          "Host": "coral-brook-f19c.backups9536-038.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "entra.damagostarantehran.ir",
+        "server_name": "coral-brook-f19c.backups9536-038.workers.dev",
         "insecure": false,
         "utls": {
           "enabled": true,
-          "fingerprint": "android"
+          "fingerprint": "chrome"
         }
       }
     },
     {
       "type": "vless",
-      "tag": "سرویس رایگان نوا @irnova 104.19.55.68:443 [VLESS]",
-      "server": "104.19.55.68",
-      "server_port": 443,
-      "uuid": "cc9a00e9-0af9-4ab4-be1a-92e09a0d9b0b",
+      "tag": "سرویس رایگان نوا @irnova 104.17.169.109:2096 [VLESS]",
+      "server": "104.17.169.109",
+      "server_port": 2096,
+      "uuid": "51871da5-2b3a-4427-ae92-93d7e2e93c77",
       "transport": {
-        "path": "/1ae0ad22a728/proxyip=95.164.123.31?ed=2560",
+        "path": "/2dc7014bc2d3",
         "type": "ws",
         "headers": {
-          "Host": "entra.damagostarantehran.ir"
+          "Host": "coral-brook-f19c.backups9536-038.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "entra.damagostarantehran.ir",
+        "server_name": "coral-brook-f19c.backups9536-038.workers.dev",
         "insecure": false,
         "utls": {
           "enabled": true,
-          "fingerprint": "android"
+          "fingerprint": "chrome"
         }
       }
     },
     {
       "type": "vless",
-      "tag": "سرویس رایگان نوا @irnova 104.18.137.176:443 [VLESS]",
-      "server": "104.18.137.176",
-      "server_port": 443,
-      "uuid": "cc9a00e9-0af9-4ab4-be1a-92e09a0d9b0b",
+      "tag": "سرویس رایگان نوا @irnova 104.17.21.121:8443 [VLESS]",
+      "server": "104.17.21.121",
+      "server_port": 8443,
+      "uuid": "51871da5-2b3a-4427-ae92-93d7e2e93c77",
       "transport": {
-        "path": "/1ae0ad22a728/proxyip=95.164.123.31?ed=2560",
+        "path": "/2dc7014bc2d3",
         "type": "ws",
         "headers": {
-          "Host": "entra.damagostarantehran.ir"
+          "Host": "coral-brook-f19c.backups9536-038.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "entra.damagostarantehran.ir",
+        "server_name": "coral-brook-f19c.backups9536-038.workers.dev",
         "insecure": false,
         "utls": {
           "enabled": true,
-          "fingerprint": "android"
+          "fingerprint": "chrome"
         }
       }
     },
     {
       "type": "vless",
-      "tag": "سرویس رایگان نوا @irnova 104.24.36.120:443 [VLESS]",
-      "server": "104.24.36.120",
-      "server_port": 443,
-      "uuid": "cc9a00e9-0af9-4ab4-be1a-92e09a0d9b0b",
+      "tag": "سرویس رایگان نوا @irnova 104.19.33.143:2096 [VLESS]",
+      "server": "104.19.33.143",
+      "server_port": 2096,
+      "uuid": "51871da5-2b3a-4427-ae92-93d7e2e93c77",
       "transport": {
-        "path": "/1ae0ad22a728/proxyip=95.164.123.31?ed=2560",
+        "path": "/2dc7014bc2d3",
         "type": "ws",
         "headers": {
-          "Host": "entra.damagostarantehran.ir"
+          "Host": "coral-brook-f19c.backups9536-038.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "entra.damagostarantehran.ir",
+        "server_name": "coral-brook-f19c.backups9536-038.workers.dev",
         "insecure": false,
         "utls": {
           "enabled": true,
-          "fingerprint": "android"
+          "fingerprint": "chrome"
         }
       }
     },
     {
       "type": "vless",
-      "tag": "سرویس رایگان نوا @irnova 104.25.121.46:443 [VLESS]",
-      "server": "104.25.121.46",
-      "server_port": 443,
-      "uuid": "cc9a00e9-0af9-4ab4-be1a-92e09a0d9b0b",
+      "tag": "سرویس رایگان نوا @irnova 104.17.31.74:2083 [VLESS]",
+      "server": "104.17.31.74",
+      "server_port": 2083,
+      "uuid": "51871da5-2b3a-4427-ae92-93d7e2e93c77",
       "transport": {
-        "path": "/1ae0ad22a728/proxyip=95.164.123.31?ed=2560",
+        "path": "/2dc7014bc2d3",
         "type": "ws",
         "headers": {
-          "Host": "entra.damagostarantehran.ir"
+          "Host": "coral-brook-f19c.backups9536-038.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "entra.damagostarantehran.ir",
+        "server_name": "coral-brook-f19c.backups9536-038.workers.dev",
         "insecure": false,
         "utls": {
           "enabled": true,
-          "fingerprint": "android"
+          "fingerprint": "chrome"
         }
       }
     },
     {
       "type": "vless",
-      "tag": "سرویس رایگان نوا @irnova 104.27.54.117:443 [VLESS]",
-      "server": "104.27.54.117",
-      "server_port": 443,
-      "uuid": "cc9a00e9-0af9-4ab4-be1a-92e09a0d9b0b",
+      "tag": "سرویس رایگان نوا @irnova 172.67.64.188:2096 [VLESS]",
+      "server": "172.67.64.188",
+      "server_port": 2096,
+      "uuid": "51871da5-2b3a-4427-ae92-93d7e2e93c77",
       "transport": {
-        "path": "/1ae0ad22a728/proxyip=95.164.123.31?ed=2560",
+        "path": "/2dc7014bc2d3",
         "type": "ws",
         "headers": {
-          "Host": "entra.damagostarantehran.ir"
+          "Host": "coral-brook-f19c.backups9536-038.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "entra.damagostarantehran.ir",
+        "server_name": "coral-brook-f19c.backups9536-038.workers.dev",
         "insecure": false,
         "utls": {
           "enabled": true,
-          "fingerprint": "android"
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "سرویس رایگان نوا @irnova 104.17.168.147:443 [VLESS]",
+      "server": "104.17.168.147",
+      "server_port": 443,
+      "uuid": "51871da5-2b3a-4427-ae92-93d7e2e93c77",
+      "transport": {
+        "path": "/2dc7014bc2d3",
+        "type": "ws",
+        "headers": {
+          "Host": "coral-brook-f19c.backups9536-038.workers.dev"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "coral-brook-f19c.backups9536-038.workers.dev",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "سرویس رایگان نوا @irnova 188.164.248.200:443 [VLESS]",
+      "server": "188.164.248.200",
+      "server_port": 443,
+      "uuid": "51871da5-2b3a-4427-ae92-93d7e2e93c77",
+      "transport": {
+        "path": "/2dc7014bc2d3",
+        "type": "ws",
+        "headers": {
+          "Host": "coral-brook-f19c.backups9536-038.workers.dev"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "coral-brook-f19c.backups9536-038.workers.dev",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "سرویس رایگان نوا @irnova 104.26.13.158:2083 [VLESS]",
+      "server": "104.26.13.158",
+      "server_port": 2083,
+      "uuid": "51871da5-2b3a-4427-ae92-93d7e2e93c77",
+      "transport": {
+        "path": "/2dc7014bc2d3",
+        "type": "ws",
+        "headers": {
+          "Host": "coral-brook-f19c.backups9536-038.workers.dev"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "coral-brook-f19c.backups9536-038.workers.dev",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "سرویس رایگان نوا @irnova 104.17.105.13:2053 [VLESS]",
+      "server": "104.17.105.13",
+      "server_port": 2053,
+      "uuid": "51871da5-2b3a-4427-ae92-93d7e2e93c77",
+      "transport": {
+        "path": "/2dc7014bc2d3",
+        "type": "ws",
+        "headers": {
+          "Host": "coral-brook-f19c.backups9536-038.workers.dev"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "coral-brook-f19c.backups9536-038.workers.dev",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "سرویس رایگان نوا @irnova 104.16.147.195:443 [VLESS]",
+      "server": "104.16.147.195",
+      "server_port": 443,
+      "uuid": "51871da5-2b3a-4427-ae92-93d7e2e93c77",
+      "transport": {
+        "path": "/2dc7014bc2d3",
+        "type": "ws",
+        "headers": {
+          "Host": "coral-brook-f19c.backups9536-038.workers.dev"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "coral-brook-f19c.backups9536-038.workers.dev",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "سرویس رایگان نوا @irnova 104.17.144.247:443 [VLESS]",
+      "server": "104.17.144.247",
+      "server_port": 443,
+      "uuid": "51871da5-2b3a-4427-ae92-93d7e2e93c77",
+      "transport": {
+        "path": "/2dc7014bc2d3",
+        "type": "ws",
+        "headers": {
+          "Host": "coral-brook-f19c.backups9536-038.workers.dev"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "coral-brook-f19c.backups9536-038.workers.dev",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
         }
       }
     },
@@ -341,17 +479,23 @@
         "🔯 故障转移",
         "🔮 负载均衡",
         "DIRECT",
-        "سرویس رایگان نوا @irnova entra.damagostarantehran.ir:443 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.16.72.76:443 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.16.211.170:443 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.16.2.94:443 [VLESS]",
-        "سرویس رایگان نوا @irnova 172.67.139.236:443 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.18.74.255:443 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.19.55.68:443 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.18.137.176:443 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.24.36.120:443 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.25.121.46:443 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.27.54.117:443 [VLESS]",
+        "🇨🇳 سرویس رایگان نوا @irnova coral-brook-f19c.backups9536-038.workers.dev:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 198.41.209.30:2053 [VLESS]",
+        "سرویس رایگان نوا @irnova 108.162.198.23:2053 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.19.32.95:8443 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.16.246.211:2053 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.18.33.27:2053 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.17.169.109:2096 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.17.21.121:8443 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.19.33.143:2096 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.17.31.74:2083 [VLESS]",
+        "سرویس رایگان نوا @irnova 172.67.64.188:2096 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.17.168.147:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 188.164.248.200:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.26.13.158:2083 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.17.105.13:2053 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.16.147.195:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.17.144.247:443 [VLESS]",
         "📢 https://t.me/irnova",
         "📊 0.00GB / 9999GB (0%)  |  📅 2099-01-01"
       ]
@@ -360,17 +504,23 @@
       "type": "urltest",
       "tag": "♻️ 自动选择",
       "outbounds": [
-        "سرویس رایگان نوا @irnova entra.damagostarantehran.ir:443 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.16.72.76:443 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.16.211.170:443 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.16.2.94:443 [VLESS]",
-        "سرویس رایگان نوا @irnova 172.67.139.236:443 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.18.74.255:443 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.19.55.68:443 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.18.137.176:443 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.24.36.120:443 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.25.121.46:443 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.27.54.117:443 [VLESS]"
+        "🇨🇳 سرویس رایگان نوا @irnova coral-brook-f19c.backups9536-038.workers.dev:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 198.41.209.30:2053 [VLESS]",
+        "سرویس رایگان نوا @irnova 108.162.198.23:2053 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.19.32.95:8443 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.16.246.211:2053 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.18.33.27:2053 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.17.169.109:2096 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.17.21.121:8443 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.19.33.143:2096 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.17.31.74:2083 [VLESS]",
+        "سرویس رایگان نوا @irnova 172.67.64.188:2096 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.17.168.147:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 188.164.248.200:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.26.13.158:2083 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.17.105.13:2053 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.16.147.195:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.17.144.247:443 [VLESS]"
       ],
       "url": "http://www.gstatic.com/generate_204",
       "interval": "5m",
@@ -380,34 +530,46 @@
       "type": "urltest",
       "tag": "🔯 故障转移",
       "outbounds": [
-        "سرویس رایگان نوا @irnova entra.damagostarantehran.ir:443 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.16.72.76:443 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.16.211.170:443 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.16.2.94:443 [VLESS]",
-        "سرویس رایگان نوا @irnova 172.67.139.236:443 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.18.74.255:443 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.19.55.68:443 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.18.137.176:443 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.24.36.120:443 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.25.121.46:443 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.27.54.117:443 [VLESS]"
+        "🇨🇳 سرویس رایگان نوا @irnova coral-brook-f19c.backups9536-038.workers.dev:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 198.41.209.30:2053 [VLESS]",
+        "سرویس رایگان نوا @irnova 108.162.198.23:2053 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.19.32.95:8443 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.16.246.211:2053 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.18.33.27:2053 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.17.169.109:2096 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.17.21.121:8443 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.19.33.143:2096 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.17.31.74:2083 [VLESS]",
+        "سرویس رایگان نوا @irnova 172.67.64.188:2096 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.17.168.147:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 188.164.248.200:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.26.13.158:2083 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.17.105.13:2053 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.16.147.195:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.17.144.247:443 [VLESS]"
       ]
     },
     {
       "type": "urltest",
       "tag": "🔮 负载均衡",
       "outbounds": [
-        "سرویس رایگان نوا @irnova entra.damagostarantehran.ir:443 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.16.72.76:443 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.16.211.170:443 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.16.2.94:443 [VLESS]",
-        "سرویس رایگان نوا @irnova 172.67.139.236:443 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.18.74.255:443 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.19.55.68:443 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.18.137.176:443 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.24.36.120:443 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.25.121.46:443 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.27.54.117:443 [VLESS]"
+        "🇨🇳 سرویس رایگان نوا @irnova coral-brook-f19c.backups9536-038.workers.dev:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 198.41.209.30:2053 [VLESS]",
+        "سرویس رایگان نوا @irnova 108.162.198.23:2053 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.19.32.95:8443 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.16.246.211:2053 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.18.33.27:2053 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.17.169.109:2096 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.17.21.121:8443 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.19.33.143:2096 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.17.31.74:2083 [VLESS]",
+        "سرویس رایگان نوا @irnova 172.67.64.188:2096 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.17.168.147:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 188.164.248.200:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.26.13.158:2083 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.17.105.13:2053 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.16.147.195:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.17.144.247:443 [VLESS]"
       ]
     },
     {
@@ -440,17 +602,23 @@
         "♻️ 自动选择",
         "🔯 故障转移",
         "🔮 负载均衡",
-        "سرویس رایگان نوا @irnova entra.damagostarantehran.ir:443 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.16.72.76:443 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.16.211.170:443 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.16.2.94:443 [VLESS]",
-        "سرویس رایگان نوا @irnova 172.67.139.236:443 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.18.74.255:443 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.19.55.68:443 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.18.137.176:443 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.24.36.120:443 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.25.121.46:443 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.27.54.117:443 [VLESS]",
+        "🇨🇳 سرویس رایگان نوا @irnova coral-brook-f19c.backups9536-038.workers.dev:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 198.41.209.30:2053 [VLESS]",
+        "سرویس رایگان نوا @irnova 108.162.198.23:2053 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.19.32.95:8443 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.16.246.211:2053 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.18.33.27:2053 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.17.169.109:2096 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.17.21.121:8443 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.19.33.143:2096 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.17.31.74:2083 [VLESS]",
+        "سرویس رایگان نوا @irnova 172.67.64.188:2096 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.17.168.147:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 188.164.248.200:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.26.13.158:2083 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.17.105.13:2053 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.16.147.195:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.17.144.247:443 [VLESS]",
         "📢 https://t.me/irnova",
         "📊 0.00GB / 9999GB (0%)  |  📅 2099-01-01"
       ]
@@ -465,17 +633,23 @@
         "♻️ 自动选择",
         "🔯 故障转移",
         "🔮 负载均衡",
-        "سرویس رایگان نوا @irnova entra.damagostarantehran.ir:443 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.16.72.76:443 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.16.211.170:443 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.16.2.94:443 [VLESS]",
-        "سرویس رایگان نوا @irnova 172.67.139.236:443 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.18.74.255:443 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.19.55.68:443 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.18.137.176:443 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.24.36.120:443 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.25.121.46:443 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.27.54.117:443 [VLESS]",
+        "🇨🇳 سرویس رایگان نوا @irnova coral-brook-f19c.backups9536-038.workers.dev:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 198.41.209.30:2053 [VLESS]",
+        "سرویس رایگان نوا @irnova 108.162.198.23:2053 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.19.32.95:8443 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.16.246.211:2053 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.18.33.27:2053 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.17.169.109:2096 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.17.21.121:8443 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.19.33.143:2096 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.17.31.74:2083 [VLESS]",
+        "سرویس رایگان نوا @irnova 172.67.64.188:2096 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.17.168.147:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 188.164.248.200:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.26.13.158:2083 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.17.105.13:2053 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.16.147.195:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.17.144.247:443 [VLESS]",
         "📢 https://t.me/irnova",
         "📊 0.00GB / 9999GB (0%)  |  📅 2099-01-01"
       ]
@@ -485,17 +659,23 @@
       "tag": "GLOBAL",
       "outbounds": [
         "DIRECT",
-        "سرویس رایگان نوا @irnova entra.damagostarantehran.ir:443 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.16.72.76:443 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.16.211.170:443 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.16.2.94:443 [VLESS]",
-        "سرویس رایگان نوا @irnova 172.67.139.236:443 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.18.74.255:443 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.19.55.68:443 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.18.137.176:443 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.24.36.120:443 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.25.121.46:443 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.27.54.117:443 [VLESS]",
+        "🇨🇳 سرویس رایگان نوا @irnova coral-brook-f19c.backups9536-038.workers.dev:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 198.41.209.30:2053 [VLESS]",
+        "سرویس رایگان نوا @irnova 108.162.198.23:2053 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.19.32.95:8443 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.16.246.211:2053 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.18.33.27:2053 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.17.169.109:2096 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.17.21.121:8443 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.19.33.143:2096 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.17.31.74:2083 [VLESS]",
+        "سرویس رایگان نوا @irnova 172.67.64.188:2096 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.17.168.147:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 188.164.248.200:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.26.13.158:2083 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.17.105.13:2053 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.16.147.195:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.17.144.247:443 [VLESS]",
         "📢 https://t.me/irnova",
         "📊 0.00GB / 9999GB (0%)  |  📅 2099-01-01"
       ]
@@ -505,60 +685,23 @@
       "tag": "REJECT"
     },
     {
-      "type": "wireguard",
-      "tag": "Nova-WARP",
-      "server": "engage.cloudflareclient.com",
-      "server_port": 2408,
-      "local_address": [
-        "172.16.0.2/32",
-        "2606:4700:110:8ee9:f221:6878:317e:b695/128"
-      ],
-      "private_key": "B6hG+VzIKGHh8I/6jDlojWi1uVp3ULPZrdQMYt/GBJI=",
-      "peer_public_key": "bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=",
-      "reserved": [
-        244,
-        164,
-        241
-      ],
-      "mtu": 1280
-    },
-    {
-      "type": "wireguard",
-      "tag": "Nova-WoW",
-      "server": "162.159.192.1",
-      "server_port": 2408,
-      "local_address": [
-        "172.16.0.2/32",
-        "2606:4700:110:801f:2594:2282:5788:9a64/128"
-      ],
-      "private_key": "R0O6bVnI5sh/76YK4c1+KwbeFEgtZRx5sCpPw22I9KY=",
-      "peer_public_key": "bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=",
-      "reserved": [
-        11,
-        193,
-        242
-      ],
-      "mtu": 1280,
-      "detour": "Nova-WARP"
-    },
-    {
       "type": "vmess",
       "tag": "📢 https://t.me/irnova",
       "server": "192.0.2.1",
       "server_port": 443,
-      "uuid": "cc9a00e9-0af9-4ab4-be1a-92e09a0d9b0b",
+      "uuid": "51871da5-2b3a-4427-ae92-93d7e2e93c77",
       "security": "auto",
       "alter_id": 0,
       "transport": {
         "type": "ws",
         "path": "/?fake=1",
         "headers": {
-          "Host": "entra.damagostarantehran.ir"
+          "Host": "coral-brook-f19c.backups9536-038.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "entra.damagostarantehran.ir"
+        "server_name": "coral-brook-f19c.backups9536-038.workers.dev"
       }
     },
     {
@@ -566,19 +709,19 @@
       "tag": "📊 0.00GB / 9999GB (0%)  |  📅 2099-01-01",
       "server": "192.0.2.1",
       "server_port": 443,
-      "uuid": "cc9a00e9-0af9-4ab4-be1a-92e09a0d9b0b",
+      "uuid": "51871da5-2b3a-4427-ae92-93d7e2e93c77",
       "security": "auto",
       "alter_id": 0,
       "transport": {
         "type": "ws",
         "path": "/?fake=1",
         "headers": {
-          "Host": "entra.damagostarantehran.ir"
+          "Host": "coral-brook-f19c.backups9536-038.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "entra.damagostarantehran.ir"
+        "server_name": "coral-brook-f19c.backups9536-038.workers.dev"
       }
     }
   ],
@@ -9886,7 +10029,6 @@
           "130.108.73.0/24",
           "130.108.104.0/23",
           "130.108.121.0/24",
-          "130.108.253.0/24",
           "136.143.138.0/24",
           "138.5.248.0/24",
           "139.64.234.0/23",
@@ -9911,7 +10053,6 @@
           "154.202.89.0/24",
           "154.206.12.0/24",
           "154.211.8.0/24",
-          "154.218.15.0/24",
           "155.46.167.0/24",
           "155.46.213.0/24",
           "156.243.246.0/24",
@@ -10049,7 +10190,7 @@
           "8.29.109.0/24",
           "8.29.228.0/24",
           "8.29.230.0/23",
-          "8.31.160.0/23",
+          "8.31.160.0/24",
           "8.34.70.0/24",
           "8.34.146.0/24",
           "8.35.211.0/24",
@@ -10103,7 +10244,7 @@
           "51.194.144.0/22",
           "51.241.128.0/23",
           "57.250.49.0/24",
-          "57.250.51.0/24",
+          "57.250.50.0/23",
           "61.8.33.0/24",
           "61.32.240.0/24",
           "61.245.108.0/24",
@@ -10126,22 +10267,29 @@
           "72.22.87.0/24",
           "74.1.17.0/24",
           "77.73.113.0/24",
+          "77.90.139.0/24",
+          "77.90.173.0/24",
           "78.128.122.0/24",
           "80.240.93.0/24",
           "82.21.82.0/24",
+          "82.21.188.0/24",
           "82.22.16.0/24",
+          "82.22.21.0/24",
+          "82.22.49.0/24",
           "82.25.20.0/24",
           "82.26.156.0/24",
           "82.39.253.0/24",
           "82.47.124.0/23",
           "82.139.216.0/23",
           "82.152.216.0/24",
+          "83.245.13.0/24",
           "87.84.129.0/24",
           "87.232.75.0/24",
           "87.232.80.0/24",
           "87.232.113.0/24",
           "88.216.69.0/24",
           "89.46.251.0/24",
+          "90.96.176.0/20",
           "91.206.71.0/24",
           "91.213.221.0/24",
           "91.224.186.0/24",
@@ -10229,20 +10377,20 @@
           "104.22.174.0/24",
           "104.22.176.0/21",
           "104.22.184.0/22",
-          "104.22.190.0/24",
-          "104.22.193.0/24",
-          "104.22.194.0/23",
+          "104.22.190.0/23",
+          "104.22.192.0/22",
           "104.22.196.0/23",
           "104.22.198.0/24",
-          "104.22.202.0/23",
           "104.22.204.0/23",
+          "104.22.210.0/23",
           "104.22.216.0/23",
           "104.22.219.0/24",
           "104.22.220.0/24",
           "104.22.222.0/23",
           "104.22.224.0/23",
           "104.22.226.0/24",
-          "104.22.232.0/24",
+          "104.22.232.0/23",
+          "104.22.234.0/24",
           "104.23.160.0/20",
           "104.23.176.0/23",
           "104.23.178.0/24",
@@ -10253,7 +10401,7 @@
           "104.23.201.0/24",
           "104.23.202.0/23",
           "104.23.204.0/24",
-          "104.23.206.0/23",
+          "104.23.206.0/24",
           "104.23.208.0/20",
           "104.23.224.0/19",
           "104.24.0.0/18",
@@ -10307,6 +10455,7 @@
           "123.108.75.0/24",
           "123.253.173.0/24",
           "123.253.174.0/24",
+          "129.192.2.0/24",
           "131.0.72.0/22",
           "131.167.255.0/24",
           "137.66.96.0/24",
@@ -10342,7 +10491,7 @@
           "144.124.212.0/24",
           "144.124.214.0/23",
           "144.208.122.0/24",
-          "144.225.66.0/24",
+          "144.225.66.0/23",
           "144.225.90.0/24",
           "145.63.64.0/24",
           "145.224.255.0/24",
@@ -10357,12 +10506,12 @@
           "151.246.216.0/23",
           "152.114.0.0/17",
           "152.114.128.0/18",
+          "153.51.214.0/23",
+          "153.51.216.0/21",
           "153.79.172.0/23",
           "153.79.174.0/24",
           "154.46.20.0/24",
           "154.81.141.0/24",
-          "154.84.164.0/24",
-          "154.86.118.0/24",
           "154.193.63.0/24",
           "154.193.133.0/24",
           "154.193.184.0/24",
@@ -10391,14 +10540,16 @@
           "162.158.16.0/21",
           "162.158.24.0/23",
           "162.158.26.0/24",
-          "162.158.28.0/23",
+          "162.158.29.0/24",
           "162.158.30.0/24",
           "162.158.32.0/23",
           "162.158.35.0/24",
           "162.158.36.0/22",
           "162.158.40.0/22",
           "162.158.44.0/24",
-          "162.158.48.0/21",
+          "162.158.48.0/23",
+          "162.158.50.0/24",
+          "162.158.52.0/22",
           "162.158.61.0/24",
           "162.158.62.0/23",
           "162.158.73.0/24",
@@ -10442,6 +10593,7 @@
           "162.159.0.0/18",
           "162.159.64.0/20",
           "162.159.81.0/24",
+          "162.159.84.0/24",
           "162.159.88.0/21",
           "162.159.96.0/22",
           "162.159.100.0/23",
@@ -10521,8 +10673,7 @@
           "172.66.216.0/23",
           "172.67.64.0/18",
           "172.67.128.0/17",
-          "172.68.0.0/24",
-          "172.68.2.0/23",
+          "172.68.0.0/22",
           "172.68.4.0/24",
           "172.68.6.0/24",
           "172.68.8.0/23",
@@ -10681,7 +10832,7 @@
           "172.69.233.0/24",
           "172.69.234.0/23",
           "172.69.236.0/24",
-          "172.69.238.0/23",
+          "172.69.239.0/24",
           "172.69.241.0/24",
           "172.69.245.0/24",
           "172.69.246.0/23",
@@ -10697,7 +10848,6 @@
           "172.70.92.0/23",
           "172.70.94.0/24",
           "172.70.100.0/23",
-          "172.70.103.0/24",
           "172.70.105.0/24",
           "172.70.107.0/24",
           "172.70.108.0/22",
@@ -10720,7 +10870,6 @@
           "172.70.194.0/24",
           "172.70.196.0/23",
           "172.70.199.0/24",
-          "172.70.201.0/24",
           "172.70.202.0/23",
           "172.70.204.0/22",
           "172.70.208.0/24",
@@ -10775,6 +10924,7 @@
           "172.71.221.0/24",
           "172.71.222.0/23",
           "172.71.224.0/24",
+          "172.71.228.0/24",
           "172.71.232.0/21",
           "172.71.240.0/23",
           "172.71.242.0/24",
@@ -10789,6 +10939,9 @@
           "173.245.63.0/24",
           "176.103.113.0/24",
           "177.28.6.0/24",
+          "177.104.130.0/24",
+          "177.104.132.0/24",
+          "177.104.140.0/24",
           "178.83.176.0/24",
           "178.94.178.0/24",
           "178.94.249.0/24",
@@ -10834,6 +10987,8 @@
           "192.103.56.0/24",
           "192.120.41.0/24",
           "192.250.58.0/23",
+          "193.8.27.0/24",
+          "193.8.28.0/24",
           "193.8.231.0/24",
           "193.8.237.0/24",
           "193.118.171.0/24",
@@ -10850,7 +11005,6 @@
           "194.34.84.0/22",
           "194.34.88.0/22",
           "194.34.93.0/24",
-          "194.77.208.0/24",
           "194.77.235.0/24",
           "194.152.130.0/24",
           "195.66.29.0/24",
@@ -10863,6 +11017,7 @@
           "198.41.192.0/20",
           "198.41.208.0/23",
           "198.41.211.0/24",
+          "198.41.213.0/24",
           "198.41.214.0/23",
           "198.41.216.0/22",
           "198.41.222.0/23",
@@ -10901,6 +11056,11 @@
           "204.153.16.0/24",
           "204.195.192.0/18",
           "205.203.78.0/24",
+          "206.15.53.0/24",
+          "206.15.55.0/24",
+          "206.15.56.0/24",
+          "206.15.58.0/23",
+          "206.15.60.0/22",
           "206.206.104.0/23",
           "207.57.150.0/23",
           "207.89.22.0/23",
@@ -10923,6 +11083,7 @@
           "212.104.128.0/24",
           "212.114.54.0/24",
           "212.189.70.0/23",
+          "213.209.141.0/24",
           "216.19.107.0/24",
           "216.74.106.0/24",
           "216.97.235.0/24",
@@ -10975,7 +11136,7 @@
       }
     ],
     "auto_detect_interface": true,
-    "final": "Nova-WoW",
+    "final": "🐟 漏网之鱼",
     "rule_set": [
       {
         "tag": "geoip-cn",
